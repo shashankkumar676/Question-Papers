@@ -1,0 +1,26 @@
+[
+              {
+                 "subject_name": "Mathematics - III",
+                 "subject_val": "eee_m3"
+               },
+               {
+                 "subject_name": "Electrical Circuits-I",
+                 "subject_val": "eee_ec1"
+               },
+               {
+                 "subject_name": "Environmental Studies",
+                 "subject_val": "eee_es"
+               },
+               {
+                 "subject_name": "Electrical Measurements & Instruments",
+                 "subject_val": "eee_emi"
+               },
+               {
+                 "subject_name": "Electronic Engg.-I",
+                 "subject_val": "eee_ee1"
+               },
+               {
+                 "subject_name": "Principles Of Mechanical Engg.",
+                 "subject_val": "eee_pome"
+               }
+]

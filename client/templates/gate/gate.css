@@ -1,0 +1,16 @@
+/*****************************************************************************/
+/* FirstYear: Style */
+/*****************************************************************************/
+#body-gate{
+  height: 100%;
+  overflow: hidden;
+}
+#gate {
+  padding-top: 70px;
+  height: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+#gate .header .content {
+  font-family: BubblegumSans;
+}

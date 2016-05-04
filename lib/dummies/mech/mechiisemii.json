@@ -1,0 +1,27 @@
+[
+
+               {
+                 "subject_name": "Mathematics-IV",
+                 "subject_val": "mech_m4"
+               },
+               {
+                 "subject_name": "Kinematics Of Machines",
+                 "subject_val": "mech_kom"
+               },
+               {
+                 "subject_name": "Electrical Circuits & Machines",
+                 "subject_val": "mech_ecm"
+               },
+               {
+                 "subject_name": "Thermodynamics",
+                 "subject_val": "mech_td"
+               },
+               {
+                 "subject_name": "Applied Electronics",
+                 "subject_val": "mech_ae"
+               },
+               {
+                 "subject_name": "Fluid Dynamics",
+                 "subject_val": "mech_fd"
+               }
+]

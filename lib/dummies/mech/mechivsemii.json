@@ -1,0 +1,82 @@
+[
+               {
+                 "subject_name": "Production Drawing",
+                 "subject_val": "mech_pd"
+               },
+               {
+                 "subject_name": "Production & Operations Management",
+                 "subject_val": "mech_pom"
+               },
+               {
+                 "subject_name": "Microprocessor Applications",
+                 "subject_val": "mech_ma"
+               },
+               {
+                 "subject_name": "Artificial Intelligence & Expert Systems",
+                 "subject_val": "mech_aies"
+               },
+               {
+                 "subject_name": "Machine Tool Design",
+                 "subject_val": "mech_mtd"
+               },
+               {
+                 "subject_name": "Manufacturing Systems & Simulations",
+                 "subject_val": "mech_mss"
+               },
+               {
+                 "subject_name": "Mechatronics",
+                 "subject_val": "mech_m"
+               },
+               {
+                 "subject_name": "Intellectual Property Rights",
+                 "subject_val": "mech_ipr"
+               },
+               {
+                 "subject_name": "Nano Materials & Technology",
+                 "subject_val": "mech_nmt"
+               },
+               {
+                 "subject_name": "Power Plant Engineering",
+                 "subject_val": "mech_ppe"
+               },
+               {
+                 "subject_name": "Information Security",
+                 "subject_val": "mech_is"
+               },
+               {
+                 "subject_name": "Robotics",
+                 "subject_val": "mech_r"
+               },
+               {
+                 "subject_name": "Product Design & Process Planning",
+                 "subject_val": "mech_pdpp"
+               },
+               {
+                 "subject_name": "Modern Machining & Forming Methods",
+                 "subject_val": "mech_mmfm"
+               },
+               {
+                 "subject_name": "Plastics Engineering & Technology",
+                 "subject_val": "mech_pet"
+               },
+               {
+                 "subject_name": "Computer Graphics",
+                 "subject_val": "mech_cg"
+               },
+               {
+                 "subject_name": "Internet Programming",
+                 "subject_val": "mech_ip"
+               },
+               {
+                 "subject_name": "Fuel & Combustion",
+                 "subject_val": "mech_fc"
+               },
+               {
+                 "subject_name": "Rapid Prototyping Technologies",
+                 "subject_val": "mech_rpt"
+               },
+               {
+                 "subject_name": "Total Quality Management",
+                 "subject_val": "mech_tqm"
+               }
+]

@@ -1,0 +1,26 @@
+[
+              {
+                 "subject_name": "Software Engineering ",
+                 "subject_val": "it_se"
+               },
+               {
+                 "subject_name": "Database Mgmt. Systems ",
+                 "subject_val": "it_dbms"
+               },
+               {
+                 "subject_name": "Digital Signal Processing",
+                 "subject_val": "it_dsp"
+               },
+               {
+                 "subject_name": "Operating Systems",
+                 "subject_val": "it_os"
+               },
+               {
+                 "subject_name": "Theory of Automata ",
+                 "subject_val": "it_toa"
+               },
+               {
+                 "subject_name": "Managerial Economics and Accountancy",
+                 "subject_val": "it_mea"
+               }
+]

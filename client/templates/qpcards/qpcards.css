@@ -1,0 +1,23 @@
+/*****************************************************************************/
+/* Qpcards: Style */
+/*****************************************************************************/
+#body-qpcards{
+  height: 100%;
+}
+#qpcards {
+  height: 100%;
+  padding-top: 70px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+#qpcards .header .content {
+  font-family: BubblegumSans;
+}
+
+#qpcards .back-btn .circular{
+float: left;
+}
+
+#qpcards .home-btn .circular{
+float: right;
+}

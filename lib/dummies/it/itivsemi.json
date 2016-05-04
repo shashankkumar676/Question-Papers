@@ -1,0 +1,50 @@
+[
+              {
+                 "subject_name": "VLSI Design",
+                 "subject_val": "it_vlsi"
+               },
+               {
+                 "subject_name": "Middleware Technologies",
+                 "subject_val": "it_mt"
+               },
+               {
+                 "subject_name": "Information Security",
+                 "subject_val": "it_is"
+               },
+               {
+                 "subject_name": "Wireless & Mobile Comm.",
+                 "subject_val": "it_wmc"
+               },
+               {
+                 "subject_name": "Ad-hoc & Sensor Networks",
+                 "subject_val": "it_asn"
+               },
+               {
+                 "subject_name": "Distributed Systems",
+                 "subject_val": "it_distsys"
+               },
+               {
+                 "subject_name": "Intellectual Property Rights",
+                 "subject_val": "it_ipr"
+               },
+               {
+                 "subject_name": "Digital Image Processing",
+                 "subject_val": "it_dip"
+               },
+               {
+                 "subject_name": "Computing",
+                 "subject_val": "it_comp"
+               },
+               {
+                 "subject_name": "CPLD & FPGA Architectures",
+                 "subject_val": "it_cafa"
+               },
+               {
+                 "subject_name": "Software Reuse Techniques",
+                 "subject_val": "it_srt"
+               },
+               {
+                 "subject_name": "Semantic Web",
+                 "subject_val": "it_sw"
+               }
+]

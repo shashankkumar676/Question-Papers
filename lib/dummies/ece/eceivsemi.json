@@ -1,0 +1,47 @@
+[
+              {
+                 "subject_name": "Microwave Engg.",
+                 "subject_val": "ece_me"
+               },
+               {
+                 "subject_name": "VLSI Design",
+                 "subject_val": "ece_vlsi"
+               },
+               {
+                 "subject_name": "Computer Networks",
+                 "subject_val": "ece_cn"
+               },
+               {
+                 "subject_name": "Mobile Cellular Communication",
+                 "subject_val": "ece_mcc"
+               },
+               {
+                 "subject_name": "Industrial Administration & Financial Mgmt",
+                 "subject_val": "ece_iafm"
+               },
+               {
+                 "subject_name": "Embedded Systems",
+                 "subject_val": "ece_embsys"
+               },
+               {
+                 "subject_name": "Optical Fiber Communication",
+                 "subject_val": "ece_ofc"
+               },
+               {
+                 "subject_name": "Digital Image Processing",
+                 "subject_val": "ece_dip"
+               },
+               {
+                 "subject_name": "Multirate Signal Processing",
+                 "subject_val": "ece_msp"
+               },
+               {
+                 "subject_name": "System Automation & Control",
+                 "subject_val": "ece_sac"
+               },
+               {
+                 "subject_name": "Information Security",
+                 "subject_val": "ece_is"
+               }
+
+]

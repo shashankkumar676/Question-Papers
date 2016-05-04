@@ -1,0 +1,52 @@
+/*****************************************************************************/
+/* Credits: Style */
+/*****************************************************************************/
+/*****************************************************************************/
+/* Home: Style */
+/*****************************************************************************/
+
+@font-face {
+    font-family: JosefinSans;
+    src: url('fonts/JosefinSansRegular.ttf');
+}
+
+@font-face {
+    font-family: BubblegumSans;
+    src: url('fonts/BubblegumSansRegular.ttf');
+}
+
+@font-face {
+    font-family: IndieFlower;
+    src: url('fonts/IndieFlower.ttf');
+}
+
+#body-credits{
+  height: auto;
+  width: auto;
+  overflow: hidden;
+}
+
+#credits {
+  height: 100%;
+  padding-top: 52px;
+  padding-bottom: 15px;
+}
+
+/*#credits .inz {
+  font-size: 20px;
+  font-family: BubblegumSans;
+}*/
+
+#credits .header  {
+  font-size: 28px;
+  font-family: BubblegumSans;
+}
+
+#credits .content{
+  font-size: 25px;
+}
+
+/*#credits .sub {
+  padding-left: 10%;
+  padding-right: 10%;
+}*/

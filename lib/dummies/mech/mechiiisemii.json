@@ -1,0 +1,27 @@
+[
+
+               {
+                 "subject_name": "Machine Design",
+                 "subject_val": "mech_md"
+               },
+               {
+                 "subject_name": "Metal Cutting & Machine Tool",
+                 "subject_val": "mech_mcmt"
+               },
+               {
+                 "subject_name": "CAD/CAM",
+                 "subject_val": "mech_cc"
+               },
+               {
+                 "subject_name": "Heat Transfer",
+                 "subject_val": "mech_ht"
+               },
+               {
+                 "subject_name": "Control Systems Theory",
+                 "subject_val": "mech_cst"
+               },
+               {
+                 "subject_name": "Refrigeration & Air conditioning",
+                 "subject_val": "mech_rac"
+               }
+]

@@ -1,0 +1,51 @@
+[
+              {
+                 "subject_name": "Construction Management & Administration",
+                 "subject_val": "civil_cma"
+               },
+               {
+                 "subject_name": "Disaster Mitigation & Management",
+                 "subject_val": "civil_dmm"
+               },
+               {
+                 "subject_name": "Health Monitoring & Retrofitting Of Structures",
+                 "subject_val": "civil_hmros"
+               },
+               {
+                 "subject_name": "Ground Improvement Techniques",
+                 "subject_val": "civil_git"
+               },
+               {
+                 "subject_name": "Advanced Environmental Engg.",
+                 "subject_val": "civil_aee"
+               },
+               {
+                 "subject_name": "Advanced Reinforced Concrete Design",
+                 "subject_val": "civil_arcd"
+               },
+               {
+                 "subject_name": "Advanced Transportation Engg.",
+                 "subject_val": "civil_ate"
+               },
+               {
+                 "subject_name": "Ground Water Hydrology",
+                 "subject_val": "civil_gwh"
+               },
+               {
+                 "subject_name": "Finite Element Methods",
+                 "subject_val": "civil_fem"
+               },
+               {
+                 "subject_name": "Infrastructure Engg.",
+                 "subject_val": "civil_ie"
+               },
+               {
+                 "subject_name": "Information Security",
+                 "subject_val": "civil_is"
+               },
+               {
+                 "subject_name": "Intellectual Property Rights",
+                 "subject_val": "civil_ipr"
+               }
+
+]

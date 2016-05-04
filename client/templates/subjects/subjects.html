@@ -1,0 +1,44 @@
+<template name="Subjects">
+
+<body id="body-subjects">
+
+  <div id="year-sub">
+
+    <div class="ui inverted fixed menu navbar page grid" style="background:#29b6f6;height:60px;">
+      <a href="selections_engg" style="color:white;margin-top:6px;">
+        <button class="ui circular olive large icon button">
+          <i class="large arrow left icon"></i>
+        </button>
+      </a>
+
+      <h1 class="ui aligned header" style="color:white;margin-top:10px;padding-left:3%">
+            <div class="content">Select Subject</div>
+          </h1>
+        </div>
+
+    <center>
+        <form class="subs_form">
+          <br><br>
+          <a class="ui orange bottom pointing label">Subject</a>
+          <br>
+
+          <select name="subject" class="ui dropdown" id="select3">
+            <option value="select_subject">Select Subject</option>
+            {{#each subs}}
+            <option value="{{subject_val}}">{{subject_name}}</option>
+            {{/each}}
+          </select><br><br>
+
+          <button class="ui secondary huge button submit_btn" type="submit" style="background:#29b6f6;">
+            Submit<i class="right arrow icon"></i>
+          </button>
+
+      </form>
+
+    </center>
+
+  </div>
+
+</body>
+
+</template>

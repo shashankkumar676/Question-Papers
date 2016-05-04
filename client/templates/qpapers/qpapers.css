@@ -1,0 +1,21 @@
+/*****************************************************************************/
+/* Qpapers: Style */
+/*****************************************************************************/
+#qpapers {
+  padding-top: 70px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+#qpapers .header .content {
+  font-family: BubblegumSans;
+}
+
+#qppapers .back-btn .circular{
+
+  float:left;
+}
+
+#qppapers .home-btn .circular{
+
+  float: right;;
+}

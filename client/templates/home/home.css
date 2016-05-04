@@ -1,0 +1,49 @@
+/*****************************************************************************/
+/* Home: Style */
+/*****************************************************************************/
+
+@font-face {
+    font-family: JosefinSans;
+    src: url('fonts/JosefinSansRegular.ttf');
+}
+
+@font-face {
+    font-family: BubblegumSans;
+    src: url('fonts/BubblegumSansRegular.ttf');
+}
+
+@font-face {
+    font-family: IndieFlower;
+    src: url('fonts/IndieFlower.ttf');
+}
+
+#body-home{
+  height: auto;
+  width: auto;
+  overflow: hidden;
+}
+
+#home {
+  height: 100%;
+  padding-top: 52px;
+  padding-bottom: 15px;
+  font-size: 17px;
+  font-family: JosefinSans;
+}
+
+#home .inz {
+  font-size: 20px;
+  font-family: BubblegumSans;
+}
+
+#home .header .content {
+  font-size: 25px;
+  font-family: BubblegumSans;
+  font-weight: bold;
+}
+
+#home .sub {
+  padding-left: 10%;
+  padding-right: 10%;
+  font-family: BubblegumSans;
+}

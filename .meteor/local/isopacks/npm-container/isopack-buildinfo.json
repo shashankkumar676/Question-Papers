@@ -1,0 +1,42 @@
+{
+  "builtBy": "meteor/16",
+  "unibuildDependencies": {
+    "os.json": {
+      "files": {
+        "/C/Users/Vasantha/Documents/Project files/QUESTIONS/packages/npm-container/package.js": "667216166d1e4d886b33af8c7581c7d3540fa4cc",
+        "/C/Users/Vasantha/Documents/Project files/QUESTIONS/packages/npm-container/index.js": "34fa94afdf3fec385e2e9269e2de89c78ea5f5a2",
+        "/C/Users/Vasantha/Documents/Project files/QUESTIONS/packages.json": "c2c7601d0a91cd89f7e852a41b6dbd810a5440bd"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/C/Users/Vasantha/Documents/Project files/QUESTIONS/packages/npm-container/package.js": "667216166d1e4d886b33af8c7581c7d3540fa4cc"
+      },
+      "directories": []
+    },
+    "web.cordova.json": {
+      "files": {
+        "/C/Users/Vasantha/Documents/Project files/QUESTIONS/packages/npm-container/package.js": "667216166d1e4d886b33af8c7581c7d3540fa4cc"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/C/Users/Vasantha/Documents/Project files/QUESTIONS/packages/npm-container/package.js": "667216166d1e4d886b33af8c7581c7d3540fa4cc"
+    },
+    "directories": []
+  },
+  "pluginProviderPackageMap": {
+    "npm-container": {
+      "kind": "local",
+      "sourceRoot": "/C/Users/Vasantha/Documents/Project files/QUESTIONS/packages/npm-container"
+    },
+    "meteor": {
+      "kind": "versioned",
+      "version": "1.1.6"
+    }
+  },
+  "includeCordovaUnibuild": true
+}

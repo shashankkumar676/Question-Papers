@@ -1,0 +1,22 @@
+[
+              {
+                 "subject_name": "Strength Of Materials-II",
+                 "subject_val": "civil_som2"
+               },
+               {
+                 "subject_name": "Surveying-II",
+                 "subject_val": "civil_s2"
+               },
+               {
+                 "subject_name": "Fluid Mechanics-I",
+                 "subject_val": "civil_fm1"
+               },
+               {
+                 "subject_name": "Environmental Studies",
+                 "subject_val": "civil_es"
+               },
+               {
+                 "subject_name": "Electrical & Machines Technology",
+                 "subject_val": "civil_emt"
+               }
+]

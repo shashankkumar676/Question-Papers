@@ -1,0 +1,23 @@
+[
+
+               {
+                 "subject_name": "Applied Thermodynamics",
+                 "subject_val": "mech_at"
+               },
+               {
+                 "subject_name": "Dynamics Of Machines",
+                 "subject_val": "mech_dom"
+               },
+               {
+                 "subject_name": "Design Of Machine Elements",
+                 "subject_val": "mech_dome"
+               },
+               {
+                 "subject_name": "Hydraulic Machinery & Systems",
+                 "subject_val": "mech_hms"
+               },
+               {
+                 "subject_name": "Manufacturing Processes",
+                 "subject_val": "mech_mp"
+               }
+]

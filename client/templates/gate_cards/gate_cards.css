@@ -1,0 +1,22 @@
+/*****************************************************************************/
+/* FirstQpcards: Style */
+/*****************************************************************************/
+/* #body-gate_cards{
+  height: 100%;
+} */
+#gate_cards {
+  height: 100%;
+  padding-top: 70px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+#gate_cards .header .content {
+  font-family: BubblegumSans;
+}
+
+#gate_cards .back-btn .circular{
+  float: left;
+}
+#gate_cards .home-btn .circular{
+  float: right;
+}

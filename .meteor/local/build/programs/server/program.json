@@ -1,0 +1,689 @@
+{
+  "format": "javascript-image-pre1",
+  "arch": "os",
+  "load": [
+    {
+      "sourceMap": "packages/underscore.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/underscore.js"
+    },
+    {
+      "node_modules": "/C/Users/Vasantha/AppData/Local/.meteor/packages/meteor/1.1.6/npm/node_modules",
+      "sourceMap": "packages/meteor.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/meteor.js"
+    },
+    {
+      "sourceMap": "packages/reload.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/reload.js"
+    },
+    {
+      "sourceMap": "packages/json.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/json.js"
+    },
+    {
+      "sourceMap": "packages/base64.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/base64.js"
+    },
+    {
+      "sourceMap": "packages/ejson.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/ejson.js"
+    },
+    {
+      "node_modules": "/C/Users/Vasantha/AppData/Local/.meteor/packages/logging/1.0.7/npm/node_modules",
+      "sourceMap": "packages/logging.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/logging.js"
+    },
+    {
+      "sourceMap": "packages/routepolicy.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/routepolicy.js"
+    },
+    {
+      "sourceMap": "packages/tracker.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/tracker.js"
+    },
+    {
+      "sourceMap": "packages/deps.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/deps.js"
+    },
+    {
+      "sourceMap": "packages/htmljs.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/htmljs.js"
+    },
+    {
+      "sourceMap": "packages/html-tools.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/html-tools.js"
+    },
+    {
+      "sourceMap": "packages/blaze-tools.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/blaze-tools.js"
+    },
+    {
+      "sourceMap": "packages/spacebars-compiler.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/spacebars-compiler.js"
+    },
+    {
+      "sourceMap": "packages/jquery.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/jquery.js"
+    },
+    {
+      "sourceMap": "packages/id-map.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/id-map.js"
+    },
+    {
+      "sourceMap": "packages/ordered-dict.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/ordered-dict.js"
+    },
+    {
+      "sourceMap": "packages/random.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/random.js"
+    },
+    {
+      "sourceMap": "packages/geojson-utils.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/geojson-utils.js"
+    },
+    {
+      "sourceMap": "packages/minimongo.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/minimongo.js"
+    },
+    {
+      "sourceMap": "packages/observe-sequence.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/observe-sequence.js"
+    },
+    {
+      "sourceMap": "packages/reactive-var.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/reactive-var.js"
+    },
+    {
+      "sourceMap": "packages/blaze.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/blaze.js"
+    },
+    {
+      "sourceMap": "packages/templating.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/templating.js"
+    },
+    {
+      "sourceMap": "packages/spacebars.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/spacebars.js"
+    },
+    {
+      "sourceMap": "packages/ui.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/ui.js"
+    },
+    {
+      "sourceMap": "packages/boilerplate-generator.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/boilerplate-generator.js",
+      "assets": {
+        "boilerplate_web.browser.html": "assets/packages/boilerplate-generator/boilerplate_web.browser.html",
+        "boilerplate_web.cordova.html": "assets/packages/boilerplate-generator/boilerplate_web.cordova.html"
+      }
+    },
+    {
+      "sourceMap": "packages/webapp-hashing.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/webapp-hashing.js"
+    },
+    {
+      "node_modules": "/C/Users/Vasantha/AppData/Local/.meteor/packages/webapp/1.2.0/npm/node_modules",
+      "sourceMap": "packages/webapp.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/webapp.js"
+    },
+    {
+      "sourceMap": "packages/check.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/check.js"
+    },
+    {
+      "sourceMap": "packages/retry.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/retry.js"
+    },
+    {
+      "sourceMap": "packages/callback-hook.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/callback-hook.js"
+    },
+    {
+      "node_modules": "/C/Users/Vasantha/AppData/Local/.meteor/packages/ddp/1.1.0/npm/node_modules",
+      "sourceMap": "packages/ddp.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/ddp.js"
+    },
+    {
+      "sourceMap": "packages/binary-heap.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/binary-heap.js"
+    },
+    {
+      "node_modules": "/C/Users/Vasantha/AppData/Local/.meteor/packages/mongo/1.1.0/npm/node_modules",
+      "sourceMap": "packages/mongo.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/mongo.js"
+    },
+    {
+      "sourceMap": "packages/autoupdate.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/autoupdate.js"
+    },
+    {
+      "sourceMap": "packages/meteor-platform.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/meteor-platform.js"
+    },
+    {
+      "sourceMap": "packages/iron_core.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/iron_core.js"
+    },
+    {
+      "sourceMap": "packages/iron_dynamic-template.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/iron_dynamic-template.js",
+      "assets": {
+        "dynamic_template.html": "assets/packages/iron_dynamic-template/dynamic_template.html"
+      }
+    },
+    {
+      "sourceMap": "packages/iron_layout.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/iron_layout.js",
+      "assets": {
+        "default_layout.html": "assets/packages/iron_layout/default_layout.html"
+      }
+    },
+    {
+      "sourceMap": "packages/iron_url.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/iron_url.js"
+    },
+    {
+      "sourceMap": "packages/iron_middleware-stack.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/iron_middleware-stack.js"
+    },
+    {
+      "sourceMap": "packages/iron_location.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/iron_location.js"
+    },
+    {
+      "sourceMap": "packages/reactive-dict.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/reactive-dict.js"
+    },
+    {
+      "sourceMap": "packages/iron_controller.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/iron_controller.js"
+    },
+    {
+      "node_modules": "/C/Users/Vasantha/AppData/Local/.meteor/packages/iron_router/1.0.9/npm/node_modules",
+      "sourceMap": "packages/iron_router.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/iron_router.js",
+      "assets": {
+        "lib/templates.html": "assets/packages/iron_router/lib/templates.html"
+      }
+    },
+    {
+      "sourceMap": "packages/amplify.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/amplify.js"
+    },
+    {
+      "sourceMap": "packages/session.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/session.js"
+    },
+    {
+      "sourceMap": "packages/u2622_persistent-session.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/u2622_persistent-session.js"
+    },
+    {
+      "sourceMap": "packages/flemay_less-autoprefixer.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/flemay_less-autoprefixer.js"
+    },
+    {
+      "sourceMap": "packages/semantic_ui.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/semantic_ui.js"
+    },
+    {
+      "sourceMap": "packages/pascoual_pdfjs.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/pascoual_pdfjs.js"
+    },
+    {
+      "sourceMap": "packages/meteorhacks_npm.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/meteorhacks_npm.js"
+    },
+    {
+      "sourceMap": "packages/npm-container.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/npm-container.js",
+      "assets": {
+        "../../packages.json": "assets/packages.json"
+      }
+    },
+    {
+      "sourceMap": "packages/livedata.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/livedata.js"
+    },
+    {
+      "sourceMap": "packages/meteorhacks_async.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/meteorhacks_async.js"
+    },
+    {
+      "path": "packages/global-imports.js"
+    },
+    {
+      "path": "app/lib/collections/be.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/c.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/ca.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/chemistry.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/cseiiisemi.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/cseiiisemii.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/cseiisemi.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/cseiisemii.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/cseivsemi.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/cseivsemii.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/dist.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/drawing.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/ds.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/eceiiisemi.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/eceiiisemii.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/eceiisemi.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/eceiisemii.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/eceivsemi.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/eceivsemii.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/eeeiiisemi.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/eeeiiisemii.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/eeeiisemi.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/eeeiisemii.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/eeeivsemi.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/eeeivsemii.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/english.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/itiiisemi.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/itiiisemii.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/itiisemi.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/itiisemii.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/itivsemi.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/itivsemii.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/lst.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/mechanics.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/mechiiisemi.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/mechiiisemii.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/mechiisemi.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/mechiisemii.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/mechivsemi.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/mechivsemii.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/mone.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/mthree.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/mtwo.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/collections/physics.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/controllers/credits_controller.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/controllers/first_qpapers_controller.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/controllers/first_qpcards_controller.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/controllers/first_year_controller.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/controllers/gate_cards_controller.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/controllers/gate_controller.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/controllers/gate_qpapers_controller.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/controllers/home_controller.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/controllers/home_selection_controller.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/controllers/qpapers_controller.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/controllers/qpcards_controller.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/controllers/selections_comp_controller.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/controllers/selections_engg_controller.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/controllers/subjects_controller.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/methods.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/lib/routes.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/server/bootstrap.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/server/methods.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    },
+    {
+      "path": "app/server/publish.js",
+      "assets": {
+        ".gitkeep": "assets/app/.gitkeep"
+      }
+    }
+  ]
+}

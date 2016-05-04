@@ -1,0 +1,22 @@
+[
+              {
+                 "subject_name": "Linear Integrated Circuits & Applications",
+                 "subject_val": "ece_lica"
+               },
+               {
+                 "subject_name": "Digital Integrated Circuits & Applications",
+                 "subject_val": "ece_dica"
+               },
+               {
+                 "subject_name": "Analog Communication",
+                 "subject_val": "ece_ac"
+               },
+               {
+                 "subject_name": "Automatic Control Systems",
+                 "subject_val": "ece_acs"
+               },
+               {
+                 "subject_name": "Microprocessors & Microcontrollers",
+                 "subject_val": "ece_mm"
+               }
+]

@@ -1,0 +1,27 @@
+[
+              {
+                 "subject_name": "Mathematics - IV",
+                 "subject_val": "m4"
+               },
+               {
+                 "subject_name": "Object - Oriented Prog. using Java",
+                 "subject_val": "oops"
+               },
+               {
+                 "subject_name": "Microprocessors & Interfacing",
+                 "subject_val": "mpi"
+               },
+               {
+                 "subject_name": "Data Communications",
+                 "subject_val": "dc"
+               },
+               {
+                 "subject_name": "Electrical Circuits and Machines",
+                 "subject_val": "ecm"
+               },
+               {
+                 "subject_name": "Environmental Studies",
+                 "subject_val": "es"
+               }
+
+]

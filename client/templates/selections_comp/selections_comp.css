@@ -1,0 +1,18 @@
+/*****************************************************************************/
+/* Selections: Style */
+/*****************************************************************************/
+#body_selections_comp{
+  height: 100%;
+  overflow: hidden;
+}
+#selections_comp {
+  height: 100%;
+  padding-top: 70px;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 15px;
+  font-family: JosefinSans;
+}
+#selections_comp .header .content {
+  font-family: BubblegumSans;
+}

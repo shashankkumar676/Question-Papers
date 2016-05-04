@@ -1,0 +1,27 @@
+[
+              {
+                 "subject_name": "Mathematics - III",
+                 "subject_val": "civil_m3"
+               },
+               {
+                 "subject_name": "Building Drawing",
+                 "subject_val": "civil_bd"
+               },
+               {
+                 "subject_name": "Engineering Materials & Construction",
+                 "subject_val": "civil_emc"
+               },
+               {
+                 "subject_name": "Engineering Geology",
+                 "subject_val": "civil_eg"
+               },
+               {
+                 "subject_name": "Strength Of Materials-I",
+                 "subject_val": "civil_som1"
+               },
+               {
+                 "subject_name": "Surveying-I",
+                 "subject_val": "civil_s1"
+               }
+
+]

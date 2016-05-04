@@ -1,0 +1,42 @@
+[
+              {
+                 "subject_name": "Distributed Systems ",
+                 "subject_val": "distsys"
+               },
+               {
+                 "subject_name": "Artificial Intelligence ",
+                 "subject_val": "ai"
+               },
+               {
+                 "subject_name": "Information Security",
+                 "subject_val": "is"
+               },
+               {
+                 "subject_name": "Principles and Applications of Embedded Systems",
+                 "subject_val": "paes"
+               },
+               {
+                 "subject_name": "Software Project Management",
+                 "subject_val": "spm"
+               },
+               {
+                 "subject_name": "Computer Graphics",
+                 "subject_val": "cg"
+               },
+               {
+                 "subject_name": "Image Processing",
+                 "subject_val": "ig"
+               },
+               {
+                 "subject_name": "Adhoc & Sensor Networks",
+                 "subject_val": "asn"
+               },
+               {
+                 "subject_name": "Mobile Computing",
+                 "subject_val": "mc"
+               },
+               {
+                 "subject_name": "Real Time Systems",
+                 "subject_val": "rts"
+               }
+]

@@ -1,0 +1,63 @@
+<template name="FirstQpcards">
+  <body id="body-first_qpcards">
+
+    <div id="first_qpcards">
+
+      <div class="ui inverted fixed menu navbar page grid" style="background:#29b6f6;height:60px;">
+          <div>
+            <a class="back-btn" href="first_year" style="color:white;">
+              <button class="ui circular olive icon button">
+                <i class="big arrow left icon"></i>
+              </button>
+            </a>
+          </div><div>
+          <h1 class="ui center aligned header" style="color:white;margin-top: 10px;">
+              <div class="content">Gottem!</div>
+            </h1>
+          </div><div>
+            <a class="home-btn" href="/home_selection" style="color:white;">
+              <button class="ui circular orange icon button">
+                <i class="big home icon"></i>
+              </button>
+            </a>
+          </div>
+        </div>
+
+       <!-- <a href="/selections" style="color:white;float:right;">
+        <button class="ui huge circular orange icon button">
+          <i class="large home icon"></i>
+        </button>
+      </a> -->
+
+
+    <!-- {{#each first_qptitles}}
+    <h4 style="text-align:center;font-family:BubblegumSans;">{{subject}} Papers</h4>
+    {{/each}} -->
+
+    <br><br><br><br><br>
+
+      <div class="ui six doubling cards">
+
+        {{#each first_qptitles}}
+        <div class="blue card">
+
+          <div class="ui image">
+            <img src="/img/qp1.jpg">
+          </div>
+
+          <div class="content">
+            <h5 id="qp_title">{{card_title}}</h5>
+            <a href="/first_qpapers/{{title_val}}" id="show_qp">
+              <button class="ui small inverted blue button show_btn">Show</button>
+            </a>
+          </div>
+
+        </div>
+        {{/each}}
+
+      </div>
+    </div>
+
+  </body>
+
+</template>

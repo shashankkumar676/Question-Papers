@@ -1,0 +1,38 @@
+[
+              {
+                 "subject_name": "Compiler Construction",
+                 "subject_val": "it_cc"
+               },
+               {
+                 "subject_name": "Design & Analysis of Algorithms",
+                 "subject_val": "it_daa"
+               },
+               {
+                 "subject_name": "Artificial Intelligence",
+                 "subject_val": "it_ai"
+               },
+               {
+                 "subject_name": "Object Oriented Sys. Develpt.",
+                 "subject_val": "it_oosd"
+               },
+               {
+                 "subject_name": "Computer Networks ",
+                 "subject_val": "it_cn"
+               },
+               {
+                 "subject_name": "Data Ware Housing & Data Mining ",
+                 "subject_val": "it_ddm"
+               },
+               {
+                 "subject_name": "Computer Graphics ",
+                 "subject_val": "it_cg"
+               },
+               {
+                 "subject_name": "Software Testing",
+                 "subject_val": "it_st"
+               },
+               {
+                 "subject_name": "Digital Instrumentation & Control ",
+                 "subject_val": "it_dic"
+               }
+]

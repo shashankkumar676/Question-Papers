@@ -1,0 +1,26 @@
+[
+              {
+                 "subject_name": "Environmental Studies",
+                 "subject_val": "it_es"
+               },
+               {
+                 "subject_name": "Discrete Mathematics",
+                 "subject_val": "it_ds"
+               },
+               {
+                 "subject_name": "Micro Electronics ",
+                 "subject_val": "it_me"
+               },
+               {
+                 "subject_name": "Digital  Elect.  & Logic Design",
+                 "subject_val": "it_deld"
+               },
+               {
+                 "subject_name": "Electrical Circuits & Machines",
+                 "subject_val": "it_ecm"
+               },
+               {
+                 "subject_name": "Data Structures",
+                 "subject_val": "it_ds"
+               }
+]

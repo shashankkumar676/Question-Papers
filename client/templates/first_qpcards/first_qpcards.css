@@ -1,0 +1,19 @@
+/*****************************************************************************/
+/* FirstQpcards: Style */
+/*****************************************************************************/
+#body-first_qpcards{
+  height: 100%;
+}
+#first_qpcards {
+  height: 100%;
+  padding-top: 70px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+#first_qpcards .header .content {
+  font-family: BubblegumSans;
+}
+
+#first_qpcards .back-btn .circular{
+  margin-bottom: 15px;
+}

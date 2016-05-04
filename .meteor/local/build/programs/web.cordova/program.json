@@ -1,0 +1,2018 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "packages/underscore.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/underscore.js?0a80a8623e1b40b5df5a05582f288ddd586eaa18",
+      "sourceMap": "packages/underscore.js.map",
+      "sourceMapUrl": "/packages/0a80a8623e1b40b5df5a05582f288ddd586eaa18.map",
+      "size": 150686,
+      "hash": "0a80a8623e1b40b5df5a05582f288ddd586eaa18"
+    },
+    {
+      "path": "packages/meteor.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/meteor.js?4dc9757b244a30bdf37a732ac4db4026ce56fb6b",
+      "sourceMap": "packages/meteor.js.map",
+      "sourceMapUrl": "/packages/4dc9757b244a30bdf37a732ac4db4026ce56fb6b.map",
+      "size": 111909,
+      "hash": "4dc9757b244a30bdf37a732ac4db4026ce56fb6b"
+    },
+    {
+      "path": "packages/json.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/json.js?e22856eae714c681199eabc5c0710b904b125554",
+      "sourceMap": "packages/json.js.map",
+      "sourceMapUrl": "/packages/e22856eae714c681199eabc5c0710b904b125554.map",
+      "size": 58343,
+      "hash": "e22856eae714c681199eabc5c0710b904b125554"
+    },
+    {
+      "path": "packages/base64.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/base64.js?1a63019243b73298e2964e6d4680f25bca657726",
+      "sourceMap": "packages/base64.js.map",
+      "sourceMapUrl": "/packages/1a63019243b73298e2964e6d4680f25bca657726.map",
+      "size": 15685,
+      "hash": "1a63019243b73298e2964e6d4680f25bca657726"
+    },
+    {
+      "path": "packages/ejson.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ejson.js?71047b64b5196348bdbe5fd5eea9ac97a5a9eb14",
+      "sourceMap": "packages/ejson.js.map",
+      "sourceMapUrl": "/packages/71047b64b5196348bdbe5fd5eea9ac97a5a9eb14.map",
+      "size": 81471,
+      "hash": "71047b64b5196348bdbe5fd5eea9ac97a5a9eb14"
+    },
+    {
+      "path": "packages/logging.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/logging.js?efbe67566211d95b5cc8e39ab2faae771509b7ce",
+      "sourceMap": "packages/logging.js.map",
+      "sourceMapUrl": "/packages/efbe67566211d95b5cc8e39ab2faae771509b7ce.map",
+      "size": 29864,
+      "hash": "efbe67566211d95b5cc8e39ab2faae771509b7ce"
+    },
+    {
+      "path": "packages/reload.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/reload.js?da8974b7231dd8c0caccb5f322dcf97329d486d1",
+      "sourceMap": "packages/reload.js.map",
+      "sourceMapUrl": "/packages/da8974b7231dd8c0caccb5f322dcf97329d486d1.map",
+      "size": 25926,
+      "hash": "da8974b7231dd8c0caccb5f322dcf97329d486d1"
+    },
+    {
+      "path": "packages/tracker.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/tracker.js?6d0890939291d9780f7e2607ee3af3e7f98a3d9c",
+      "sourceMap": "packages/tracker.js.map",
+      "sourceMapUrl": "/packages/6d0890939291d9780f7e2607ee3af3e7f98a3d9c.map",
+      "size": 77821,
+      "hash": "6d0890939291d9780f7e2607ee3af3e7f98a3d9c"
+    },
+    {
+      "path": "packages/random.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/random.js?fe7b46080c91ce482acf6fc326afbc5b176f0502",
+      "sourceMap": "packages/random.js.map",
+      "sourceMapUrl": "/packages/fe7b46080c91ce482acf6fc326afbc5b176f0502.map",
+      "size": 24099,
+      "hash": "fe7b46080c91ce482acf6fc326afbc5b176f0502"
+    },
+    {
+      "path": "packages/retry.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/retry.js?1f1dd2c35d300110fdaba51ce4473583bc3bf031",
+      "sourceMap": "packages/retry.js.map",
+      "sourceMapUrl": "/packages/1f1dd2c35d300110fdaba51ce4473583bc3bf031.map",
+      "size": 7245,
+      "hash": "1f1dd2c35d300110fdaba51ce4473583bc3bf031"
+    },
+    {
+      "path": "packages/check.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/check.js?ac81167b8513b85b926c167bba423981b0c4cf9c",
+      "sourceMap": "packages/check.js.map",
+      "sourceMapUrl": "/packages/ac81167b8513b85b926c167bba423981b0c4cf9c.map",
+      "size": 35647,
+      "hash": "ac81167b8513b85b926c167bba423981b0c4cf9c"
+    },
+    {
+      "path": "packages/id-map.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/id-map.js?9ea6eaae8d74693ce2505a858d9a5e60cf191298",
+      "sourceMap": "packages/id-map.js.map",
+      "sourceMapUrl": "/packages/9ea6eaae8d74693ce2505a858d9a5e60cf191298.map",
+      "size": 8584,
+      "hash": "9ea6eaae8d74693ce2505a858d9a5e60cf191298"
+    },
+    {
+      "path": "packages/ordered-dict.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ordered-dict.js?bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37",
+      "sourceMap": "packages/ordered-dict.js.map",
+      "sourceMapUrl": "/packages/bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37.map",
+      "size": 20395,
+      "hash": "bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37"
+    },
+    {
+      "path": "packages/geojson-utils.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/geojson-utils.js?81b79d5cf96d00b4b7a28987debcffb665c17526",
+      "sourceMap": "packages/geojson-utils.js.map",
+      "sourceMapUrl": "/packages/81b79d5cf96d00b4b7a28987debcffb665c17526.map",
+      "size": 48339,
+      "hash": "81b79d5cf96d00b4b7a28987debcffb665c17526"
+    },
+    {
+      "path": "packages/minimongo.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/minimongo.js?af9eb9d7447544ca9b839a3dcf7ed2da2209b56c",
+      "sourceMap": "packages/minimongo.js.map",
+      "sourceMapUrl": "/packages/af9eb9d7447544ca9b839a3dcf7ed2da2209b56c.map",
+      "size": 458446,
+      "hash": "af9eb9d7447544ca9b839a3dcf7ed2da2209b56c"
+    },
+    {
+      "path": "packages/ddp.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ddp.js?d1840d3ba04c65ffade261f362e26699b7509706",
+      "sourceMap": "packages/ddp.js.map",
+      "sourceMapUrl": "/packages/d1840d3ba04c65ffade261f362e26699b7509706.map",
+      "size": 621843,
+      "hash": "d1840d3ba04c65ffade261f362e26699b7509706"
+    },
+    {
+      "path": "packages/mongo.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/mongo.js?3cfe0c5981c197df33036a37574850f057e934a6",
+      "sourceMap": "packages/mongo.js.map",
+      "sourceMapUrl": "/packages/3cfe0c5981c197df33036a37574850f057e934a6.map",
+      "size": 149426,
+      "hash": "3cfe0c5981c197df33036a37574850f057e934a6"
+    },
+    {
+      "path": "packages/url.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/url.js?2312d739008b2ffa52f13c77c5d6fc59c9e17d56",
+      "sourceMap": "packages/url.js.map",
+      "sourceMapUrl": "/packages/2312d739008b2ffa52f13c77c5d6fc59c9e17d56.map",
+      "size": 6642,
+      "hash": "2312d739008b2ffa52f13c77c5d6fc59c9e17d56"
+    },
+    {
+      "path": "packages/http.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/http.js?c3c7d0da66f683af57294173733637845f39253a",
+      "sourceMap": "packages/http.js.map",
+      "sourceMapUrl": "/packages/c3c7d0da66f683af57294173733637845f39253a.map",
+      "size": 37780,
+      "hash": "c3c7d0da66f683af57294173733637845f39253a"
+    },
+    {
+      "path": "packages/autoupdate.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/autoupdate.js?8b3731143e5fd73e9db3f53da3189f79c823d5d7",
+      "sourceMap": "packages/autoupdate.js.map",
+      "sourceMapUrl": "/packages/8b3731143e5fd73e9db3f53da3189f79c823d5d7.map",
+      "size": 39380,
+      "hash": "8b3731143e5fd73e9db3f53da3189f79c823d5d7"
+    },
+    {
+      "path": "packages/meteor-platform.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/meteor-platform.js?499a2f8522e25820b1153c69a92751ccaae507b3",
+      "sourceMap": "packages/meteor-platform.js.map",
+      "sourceMapUrl": "/packages/499a2f8522e25820b1153c69a92751ccaae507b3.map",
+      "size": 1384,
+      "hash": "499a2f8522e25820b1153c69a92751ccaae507b3"
+    },
+    {
+      "path": "packages/deps.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/deps.js?504589e1e9585dec8f9f6094e5a87b22de3783a1",
+      "sourceMap": "packages/deps.js.map",
+      "sourceMapUrl": "/packages/504589e1e9585dec8f9f6094e5a87b22de3783a1.map",
+      "size": 1442,
+      "hash": "504589e1e9585dec8f9f6094e5a87b22de3783a1"
+    },
+    {
+      "path": "packages/jquery.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/jquery.js?dd8bac56f8fd3666d433d2285ae01e52597cc51a",
+      "sourceMap": "packages/jquery.js.map",
+      "sourceMapUrl": "/packages/dd8bac56f8fd3666d433d2285ae01e52597cc51a.map",
+      "size": 1296513,
+      "hash": "dd8bac56f8fd3666d433d2285ae01e52597cc51a"
+    },
+    {
+      "path": "packages/htmljs.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/htmljs.js?567eb96d5d22631c03d6aca6afa4c42f0d1295f2",
+      "sourceMap": "packages/htmljs.js.map",
+      "sourceMapUrl": "/packages/567eb96d5d22631c03d6aca6afa4c42f0d1295f2.map",
+      "size": 60161,
+      "hash": "567eb96d5d22631c03d6aca6afa4c42f0d1295f2"
+    },
+    {
+      "path": "packages/observe-sequence.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/observe-sequence.js?0532a9dd76dd78f543eb4d79a1e429df186d8bde",
+      "sourceMap": "packages/observe-sequence.js.map",
+      "sourceMapUrl": "/packages/0532a9dd76dd78f543eb4d79a1e429df186d8bde.map",
+      "size": 32823,
+      "hash": "0532a9dd76dd78f543eb4d79a1e429df186d8bde"
+    },
+    {
+      "path": "packages/reactive-var.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/reactive-var.js?20335b7b37165980ddd9f23943b2e5b00aae1cc2",
+      "sourceMap": "packages/reactive-var.js.map",
+      "sourceMapUrl": "/packages/20335b7b37165980ddd9f23943b2e5b00aae1cc2.map",
+      "size": 13963,
+      "hash": "20335b7b37165980ddd9f23943b2e5b00aae1cc2"
+    },
+    {
+      "path": "packages/blaze.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/blaze.js?a5c324925e5f6e800a4c618d71caf2848b53bf51",
+      "sourceMap": "packages/blaze.js.map",
+      "sourceMapUrl": "/packages/a5c324925e5f6e800a4c618d71caf2848b53bf51.map",
+      "size": 436567,
+      "hash": "a5c324925e5f6e800a4c618d71caf2848b53bf51"
+    },
+    {
+      "path": "packages/ui.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ui.js?5a663333fd30f8fd913f110e0ef779e84f67c4b8",
+      "sourceMap": "packages/ui.js.map",
+      "sourceMapUrl": "/packages/5a663333fd30f8fd913f110e0ef779e84f67c4b8.map",
+      "size": 1529,
+      "hash": "5a663333fd30f8fd913f110e0ef779e84f67c4b8"
+    },
+    {
+      "path": "packages/templating.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/templating.js?376767bb0d2463b3b2615a1b90e77f6b22d39d7b",
+      "sourceMap": "packages/templating.js.map",
+      "sourceMapUrl": "/packages/376767bb0d2463b3b2615a1b90e77f6b22d39d7b.map",
+      "size": 11674,
+      "hash": "376767bb0d2463b3b2615a1b90e77f6b22d39d7b"
+    },
+    {
+      "path": "packages/iron_core.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/iron_core.js?d966a1f70c94792fd94c8a155bdbef9bec5e0047",
+      "sourceMap": "packages/iron_core.js.map",
+      "sourceMapUrl": "/packages/d966a1f70c94792fd94c8a155bdbef9bec5e0047.map",
+      "size": 32915,
+      "hash": "d966a1f70c94792fd94c8a155bdbef9bec5e0047"
+    },
+    {
+      "path": "packages/iron_dynamic-template.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/iron_dynamic-template.js?ccf1d8e4c1e95e99af04ba0ac922dbd8099fb0bd",
+      "sourceMap": "packages/iron_dynamic-template.js.map",
+      "sourceMapUrl": "/packages/ccf1d8e4c1e95e99af04ba0ac922dbd8099fb0bd.map",
+      "size": 86389,
+      "hash": "ccf1d8e4c1e95e99af04ba0ac922dbd8099fb0bd"
+    },
+    {
+      "path": "packages/iron_layout.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/iron_layout.js?4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062",
+      "sourceMap": "packages/iron_layout.js.map",
+      "sourceMapUrl": "/packages/4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062.map",
+      "size": 62058,
+      "hash": "4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062"
+    },
+    {
+      "path": "packages/iron_url.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/iron_url.js?f73de31c2603555662bc2fa86029a2e04c9ea051",
+      "sourceMap": "packages/iron_url.js.map",
+      "sourceMapUrl": "/packages/f73de31c2603555662bc2fa86029a2e04c9ea051.map",
+      "size": 69417,
+      "hash": "f73de31c2603555662bc2fa86029a2e04c9ea051"
+    },
+    {
+      "path": "packages/iron_middleware-stack.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/iron_middleware-stack.js?56e0c02a758f48c0a704ca978a8fb6d7bd9ebbab",
+      "sourceMap": "packages/iron_middleware-stack.js.map",
+      "sourceMapUrl": "/packages/56e0c02a758f48c0a704ca978a8fb6d7bd9ebbab.map",
+      "size": 47239,
+      "hash": "56e0c02a758f48c0a704ca978a8fb6d7bd9ebbab"
+    },
+    {
+      "path": "packages/iron_location.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/iron_location.js?ca4f0f6672edbfb6cafab6e5c024208d9364eac9",
+      "sourceMap": "packages/iron_location.js.map",
+      "sourceMapUrl": "/packages/ca4f0f6672edbfb6cafab6e5c024208d9364eac9.map",
+      "size": 52275,
+      "hash": "ca4f0f6672edbfb6cafab6e5c024208d9364eac9"
+    },
+    {
+      "path": "packages/reactive-dict.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/reactive-dict.js?1cb61826ceb23464171f17c2191c7e04a9b91508",
+      "sourceMap": "packages/reactive-dict.js.map",
+      "sourceMapUrl": "/packages/1cb61826ceb23464171f17c2191c7e04a9b91508.map",
+      "size": 21702,
+      "hash": "1cb61826ceb23464171f17c2191c7e04a9b91508"
+    },
+    {
+      "path": "packages/iron_controller.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/iron_controller.js?5a7eedaafda7001b9d5cb52322a419bbb758968c",
+      "sourceMap": "packages/iron_controller.js.map",
+      "sourceMapUrl": "/packages/5a7eedaafda7001b9d5cb52322a419bbb758968c.map",
+      "size": 41091,
+      "hash": "5a7eedaafda7001b9d5cb52322a419bbb758968c"
+    },
+    {
+      "path": "packages/iron_router.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/iron_router.js?7b16fe70bccff9182aca02afb2ccd7708ac57c64",
+      "sourceMap": "packages/iron_router.js.map",
+      "sourceMapUrl": "/packages/7b16fe70bccff9182aca02afb2ccd7708ac57c64.map",
+      "size": 210846,
+      "hash": "7b16fe70bccff9182aca02afb2ccd7708ac57c64"
+    },
+    {
+      "path": "packages/amplify.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/amplify.js?0943ecb804169b991257a319fa92b9e6f34e2d1b",
+      "sourceMap": "packages/amplify.js.map",
+      "sourceMapUrl": "/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map",
+      "size": 88428,
+      "hash": "0943ecb804169b991257a319fa92b9e6f34e2d1b"
+    },
+    {
+      "path": "packages/session.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/session.js?daf192a7244079d45db32a6fc26ebc3881fc1aa3",
+      "sourceMap": "packages/session.js.map",
+      "sourceMapUrl": "/packages/daf192a7244079d45db32a6fc26ebc3881fc1aa3.map",
+      "size": 6491,
+      "hash": "daf192a7244079d45db32a6fc26ebc3881fc1aa3"
+    },
+    {
+      "path": "packages/u2622_persistent-session.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/u2622_persistent-session.js?da5fb5879831cbca0be984fd856aa67f5efe127f",
+      "sourceMap": "packages/u2622_persistent-session.js.map",
+      "sourceMapUrl": "/packages/da5fb5879831cbca0be984fd856aa67f5efe127f.map",
+      "size": 61095,
+      "hash": "da5fb5879831cbca0be984fd856aa67f5efe127f"
+    },
+    {
+      "path": "packages/flemay_less-autoprefixer.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/flemay_less-autoprefixer.js?a28400141004e008d0ab00e13f7b86b44d5f8001",
+      "sourceMap": "packages/flemay_less-autoprefixer.js.map",
+      "sourceMapUrl": "/packages/a28400141004e008d0ab00e13f7b86b44d5f8001.map",
+      "size": 1309,
+      "hash": "a28400141004e008d0ab00e13f7b86b44d5f8001"
+    },
+    {
+      "path": "packages/semantic_ui.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/semantic_ui.js?dd53b1c43a4e7db25d788672c3fcb19a98f9e8c5",
+      "sourceMap": "packages/semantic_ui.js.map",
+      "sourceMapUrl": "/packages/dd53b1c43a4e7db25d788672c3fcb19a98f9e8c5.map",
+      "size": 1296,
+      "hash": "dd53b1c43a4e7db25d788672c3fcb19a98f9e8c5"
+    },
+    {
+      "path": "packages/pascoual_pdfjs.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/pascoual_pdfjs.js?844692c6e96aea64e1c150566aeb3ad60fecd2fe",
+      "sourceMap": "packages/pascoual_pdfjs.js.map",
+      "sourceMapUrl": "/packages/844692c6e96aea64e1c150566aeb3ad60fecd2fe.map",
+      "size": 764014,
+      "hash": "844692c6e96aea64e1c150566aeb3ad60fecd2fe"
+    },
+    {
+      "path": "packages/meteorhacks_npm.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/meteorhacks_npm.js?604e35d5437f43224cde2c1f9e5e9aace95a9a95",
+      "sourceMap": "packages/meteorhacks_npm.js.map",
+      "sourceMapUrl": "/packages/604e35d5437f43224cde2c1f9e5e9aace95a9a95.map",
+      "size": 1300,
+      "hash": "604e35d5437f43224cde2c1f9e5e9aace95a9a95"
+    },
+    {
+      "path": "packages/npm-container.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/npm-container.js?c4195e22b5a0a7239a415a3d95b3b702c34fa28d",
+      "sourceMap": "packages/npm-container.js.map",
+      "sourceMapUrl": "/packages/c4195e22b5a0a7239a415a3d95b3b702c34fa28d.map",
+      "size": 1298,
+      "hash": "c4195e22b5a0a7239a415a3d95b3b702c34fa28d"
+    },
+    {
+      "path": "packages/webapp.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/webapp.js?e1be090051b82f046484dccc2de7d747e50c7328",
+      "sourceMap": "packages/webapp.js.map",
+      "sourceMapUrl": "/packages/e1be090051b82f046484dccc2de7d747e50c7328.map",
+      "size": 3106,
+      "hash": "e1be090051b82f046484dccc2de7d747e50c7328"
+    },
+    {
+      "path": "packages/livedata.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/livedata.js?718526445deb4d9baacb6d92c551adea1d36c1e1",
+      "sourceMap": "packages/livedata.js.map",
+      "sourceMapUrl": "/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map",
+      "size": 1413,
+      "hash": "718526445deb4d9baacb6d92c551adea1d36c1e1"
+    },
+    {
+      "path": "packages/spacebars.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/spacebars.js?7bafbe05ec09b6bbb6a3b276537e4995ab298a2f",
+      "sourceMap": "packages/spacebars.js.map",
+      "sourceMapUrl": "/packages/7bafbe05ec09b6bbb6a3b276537e4995ab298a2f.map",
+      "size": 42236,
+      "hash": "7bafbe05ec09b6bbb6a3b276537e4995ab298a2f"
+    },
+    {
+      "path": "packages/fastclick.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/fastclick.js?fe15770c77da049b885a0d66c669fa44057f05ee",
+      "sourceMap": "packages/fastclick.js.map",
+      "sourceMapUrl": "/packages/fe15770c77da049b885a0d66c669fa44057f05ee.map",
+      "size": 109373,
+      "hash": "fe15770c77da049b885a0d66c669fa44057f05ee"
+    },
+    {
+      "path": "packages/mobile-status-bar.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/mobile-status-bar.js?f2ba1fc67740003d54a6c78c4c73575d69dcfffe",
+      "sourceMap": "packages/mobile-status-bar.js.map",
+      "sourceMapUrl": "/packages/f2ba1fc67740003d54a6c78c4c73575d69dcfffe.map",
+      "size": 2430,
+      "hash": "f2ba1fc67740003d54a6c78c4c73575d69dcfffe"
+    },
+    {
+      "path": "packages/launch-screen.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/launch-screen.js?495e58cf2465ba553324c68301cc62076b1fda1e",
+      "sourceMap": "packages/launch-screen.js.map",
+      "sourceMapUrl": "/packages/495e58cf2465ba553324c68301cc62076b1fda1e.map",
+      "size": 8667,
+      "hash": "495e58cf2465ba553324c68301cc62076b1fda1e"
+    },
+    {
+      "path": "packages/meteorhacks_async.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/meteorhacks_async.js?e687b9e863dc811fb3f313d1c6f237c7a2b1924b",
+      "sourceMap": "packages/meteorhacks_async.js.map",
+      "sourceMapUrl": "/packages/e687b9e863dc811fb3f313d1c6f237c7a2b1924b.map",
+      "size": 1360,
+      "hash": "e687b9e863dc811fb3f313d1c6f237c7a2b1924b"
+    },
+    {
+      "path": "packages/global-imports.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/global-imports.js?41697f156bd7038484f3b1f0461960107f17107c",
+      "size": 1051,
+      "hash": "41697f156bd7038484f3b1f0461960107f17107c"
+    },
+    {
+      "path": "app/client/templates/layouts/master_layout/template.master_layout.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/layouts/master_layout/template.master_layout.js?ba7f0224b11e438e8e545427516da9ed2d3f972d",
+      "size": 219,
+      "hash": "ba7f0224b11e438e8e545427516da9ed2d3f972d"
+    },
+    {
+      "path": "app/client/templates/shared/loading/template.loading.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/shared/loading/template.loading.js?af60d2ffa047e7b81cb40c76aa5032ef22561929",
+      "size": 188,
+      "hash": "af60d2ffa047e7b81cb40c76aa5032ef22561929"
+    },
+    {
+      "path": "app/client/templates/shared/not_found/template.not_found.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/shared/not_found/template.not_found.js?d69815dcbccee85069c3c54e63246876502f5c2d",
+      "size": 190,
+      "hash": "d69815dcbccee85069c3c54e63246876502f5c2d"
+    },
+    {
+      "path": "app/client/templates/credits/template.credits.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/credits/template.credits.js?08e15b12318697f62806f419e151d3190b49de8e",
+      "size": 1889,
+      "hash": "08e15b12318697f62806f419e151d3190b49de8e"
+    },
+    {
+      "path": "app/client/templates/first_qpapers/template.first_qpapers.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/first_qpapers/template.first_qpapers.js?a144b8d8d1d794ea6488fae2e0b9a92af0b6fa97",
+      "size": 1540,
+      "hash": "a144b8d8d1d794ea6488fae2e0b9a92af0b6fa97"
+    },
+    {
+      "path": "app/client/templates/first_qpcards/template.first_qpcards.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/first_qpcards/template.first_qpcards.js?86d3d09deeb1614590ac4aaa3b1d32f540ca7a5c",
+      "size": 2615,
+      "hash": "86d3d09deeb1614590ac4aaa3b1d32f540ca7a5c"
+    },
+    {
+      "path": "app/client/templates/first_year/template.first_year.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/first_year/template.first_year.js?e14ce8c61f7a2071425438f27172b4bb7940697d",
+      "size": 2464,
+      "hash": "e14ce8c61f7a2071425438f27172b4bb7940697d"
+    },
+    {
+      "path": "app/client/templates/gate/template.gate.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/gate/template.gate.js?b1de9adffaf81dc9fdd6a4b91b1ab6d23506b0d1",
+      "size": 1506,
+      "hash": "b1de9adffaf81dc9fdd6a4b91b1ab6d23506b0d1"
+    },
+    {
+      "path": "app/client/templates/gate_cards/template.gate_cards.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/gate_cards/template.gate_cards.js?4dcc9e4775e85a912b51c86cce21ccc757807ce3",
+      "size": 2590,
+      "hash": "4dcc9e4775e85a912b51c86cce21ccc757807ce3"
+    },
+    {
+      "path": "app/client/templates/gate_qpapers/template.gate_qpapers.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/gate_qpapers/template.gate_qpapers.js?665db8ab8861ce39297799f6322e32d0ba07ab47",
+      "size": 1549,
+      "hash": "665db8ab8861ce39297799f6322e32d0ba07ab47"
+    },
+    {
+      "path": "app/client/templates/home/template.home.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/home/template.home.js?edd595cabc2d70c2615eb3bf0c4a4fa6d7616b7f",
+      "size": 1969,
+      "hash": "edd595cabc2d70c2615eb3bf0c4a4fa6d7616b7f"
+    },
+    {
+      "path": "app/client/templates/home_selection/template.home_selection.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/home_selection/template.home_selection.js?5a0ad3579a56b9cf4297081149b5813203d2fbd7",
+      "size": 1580,
+      "hash": "5a0ad3579a56b9cf4297081149b5813203d2fbd7"
+    },
+    {
+      "path": "app/client/templates/qpapers/template.qpapers.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/qpapers/template.qpapers.js?f20543320a1ae798652360b44f6c5c0768617e5c",
+      "size": 1500,
+      "hash": "f20543320a1ae798652360b44f6c5c0768617e5c"
+    },
+    {
+      "path": "app/client/templates/qpcards/template.qpcards.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/qpcards/template.qpcards.js?81f1bc9103e50a3b109992eaf13d2c3e7068fb79",
+      "size": 2258,
+      "hash": "81f1bc9103e50a3b109992eaf13d2c3e7068fb79"
+    },
+    {
+      "path": "app/client/templates/selections_comp/template.selections_comp.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/selections_comp/template.selections_comp.js?f00b2bc87782db83db1e9558a81f49e67f644ba8",
+      "size": 1167,
+      "hash": "f00b2bc87782db83db1e9558a81f49e67f644ba8"
+    },
+    {
+      "path": "app/client/templates/selections_engg/template.selections_engg.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/selections_engg/template.selections_engg.js?df3ec8d49cea8c66f7c4a9e681c8c79558d9cbf0",
+      "size": 2892,
+      "hash": "df3ec8d49cea8c66f7c4a9e681c8c79558d9cbf0"
+    },
+    {
+      "path": "app/client/templates/subjects/template.subjects.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/subjects/template.subjects.js?bb1c41bfc185ab260394ff6f9766482771c4d832",
+      "size": 1896,
+      "hash": "bb1c41bfc185ab260394ff6f9766482771c4d832"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/behaviors/api.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/behaviors/api.js?133fe300662385cebd0610691f44a2bf4c359fed",
+      "size": 36520,
+      "hash": "133fe300662385cebd0610691f44a2bf4c359fed"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/behaviors/colorize.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/behaviors/colorize.js?364b05140a3fca04328aa81f6e9c8ec3508d671a",
+      "size": 8547,
+      "hash": "364b05140a3fca04328aa81f6e9c8ec3508d671a"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/behaviors/form.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/behaviors/form.js?77b1c563372061cb659729fcca608165c05d1cae",
+      "size": 40419,
+      "hash": "77b1c563372061cb659729fcca608165c05d1cae"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/behaviors/state.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/behaviors/state.js?404c7b760847e42d49ce2534a9e5e14594542230",
+      "size": 20520,
+      "hash": "404c7b760847e42d49ce2534a9e5e14594542230"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/behaviors/visibility.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/behaviors/visibility.js?e759a5580d78ee3742e768e0dd1c503c9aef3cce",
+      "size": 39338,
+      "hash": "e759a5580d78ee3742e768e0dd1c503c9aef3cce"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/behaviors/visit.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/behaviors/visit.js?a8796305e0756793138eee8f9aa88bc39400e6cf",
+      "size": 15736,
+      "hash": "a8796305e0756793138eee8f9aa88bc39400e6cf"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/globals/site.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/globals/site.js?cab6f34acb81ed337c886960f8af85210c05c8c0",
+      "size": 14262,
+      "hash": "cab6f34acb81ed337c886960f8af85210c05c8c0"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/accordion.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/modules/accordion.js?c1efa47b325fe16e052c5a8c31da2f47763a9875",
+      "size": 19031,
+      "hash": "c1efa47b325fe16e052c5a8c31da2f47763a9875"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/checkbox.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/modules/checkbox.js?20f5d54e203ce4c79b0d80baa5f675806220e4f4",
+      "size": 22130,
+      "hash": "20f5d54e203ce4c79b0d80baa5f675806220e4f4"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/dimmer.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/modules/dimmer.js?3a2f850c1479260607ac8c4919ba67a4906c0632",
+      "size": 20426,
+      "hash": "3a2f850c1479260607ac8c4919ba67a4906c0632"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/dropdown.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/modules/dropdown.js?5aa0686526554f486428c3d5b3c118c5bfb92076",
+      "size": 114818,
+      "hash": "5aa0686526554f486428c3d5b3c118c5bfb92076"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/embed.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/modules/embed.js?4b7a0f2db2d9c4f4d0ef0147b9a40f9416e4a683",
+      "size": 19221,
+      "hash": "4b7a0f2db2d9c4f4d0ef0147b9a40f9416e4a683"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/modal.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/modules/modal.js?0da3fe64ce05f13d6776f94df9302953c38a3464",
+      "size": 27045,
+      "hash": "0da3fe64ce05f13d6776f94df9302953c38a3464"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/nag.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/modules/nag.js?4a297401d25832820481280869b32563397f0efc",
+      "size": 14006,
+      "hash": "4a297401d25832820481280869b32563397f0efc"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/popup.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/modules/popup.js?d582de193533720835951812917b9822ccd9a1bf",
+      "size": 44430,
+      "hash": "d582de193533720835951812917b9822ccd9a1bf"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/progress.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/modules/progress.js?e4534384bb33dec63de4a46a9cfd207f28cbd7e5",
+      "size": 25588,
+      "hash": "e4534384bb33dec63de4a46a9cfd207f28cbd7e5"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/rating.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/modules/rating.js?4d6bca96cd7242caa924406559948ab7f6d994a2",
+      "size": 13614,
+      "hash": "4d6bca96cd7242caa924406559948ab7f6d994a2"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/search.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/modules/search.js?7b84df025b833f2f8565a2d7d18ee0c0c75db965",
+      "size": 41027,
+      "hash": "7b84df025b833f2f8565a2d7d18ee0c0c75db965"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/shape.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/modules/shape.js?08402ae63e0838e3f9bbed1332aae38d59c8d623",
+      "size": 27519,
+      "hash": "08402ae63e0838e3f9bbed1332aae38d59c8d623"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/sidebar.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/modules/sidebar.js?53a4865d8d02e66a0a7e38de1bb5022f1809b8fd",
+      "size": 33211,
+      "hash": "53a4865d8d02e66a0a7e38de1bb5022f1809b8fd"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/sticky.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/modules/sticky.js?19c19ba6fc676f8c578d1e3ba198bccd8355cd47",
+      "size": 27822,
+      "hash": "19c19ba6fc676f8c578d1e3ba198bccd8355cd47"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/tab.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/modules/tab.js?eeb05e9083957c6a1b29c2d6c424e129d83ef8c2",
+      "size": 30568,
+      "hash": "eeb05e9083957c6a1b29c2d6c424e129d83ef8c2"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/transition.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/semantic-ui/definitions/modules/transition.js?28b00298db1c63e29c5d256d276536060453b67f",
+      "size": 34194,
+      "hash": "28b00298db1c63e29c5d256d276536060453b67f"
+    },
+    {
+      "path": "app/lib/collections/be.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/be.js?cb5ecccbffc57134b3fde1acd289de782306b88e",
+      "size": 544,
+      "hash": "cb5ecccbffc57134b3fde1acd289de782306b88e"
+    },
+    {
+      "path": "app/lib/collections/c.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/c.js?98c07e23bf3a352106bdde717f4801e56f2bb247",
+      "size": 540,
+      "hash": "98c07e23bf3a352106bdde717f4801e56f2bb247"
+    },
+    {
+      "path": "app/lib/collections/ca.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/ca.js?f10d96b5c02518bb27aa8100c770c923e637d496",
+      "size": 52,
+      "hash": "f10d96b5c02518bb27aa8100c770c923e637d496"
+    },
+    {
+      "path": "app/lib/collections/chemistry.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/chemistry.js?a6798eab155011a127a030a79e5f9ab246dea6cb",
+      "size": 572,
+      "hash": "a6798eab155011a127a030a79e5f9ab246dea6cb"
+    },
+    {
+      "path": "app/lib/collections/cseiiisemi.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/cseiiisemi.js?5b95d5bc5bced7dfccbc2218624dd4973b07f85b",
+      "size": 576,
+      "hash": "5b95d5bc5bced7dfccbc2218624dd4973b07f85b"
+    },
+    {
+      "path": "app/lib/collections/cseiiisemii.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/cseiiisemii.js?3d4555d19e514e78fdb4f12f940f59f570a7ef2f",
+      "size": 580,
+      "hash": "3d4555d19e514e78fdb4f12f940f59f570a7ef2f"
+    },
+    {
+      "path": "app/lib/collections/cseiisemi.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/cseiisemi.js?60aa97a4ed197b4e4abdc06365cc5dbe53bd61b1",
+      "size": 572,
+      "hash": "60aa97a4ed197b4e4abdc06365cc5dbe53bd61b1"
+    },
+    {
+      "path": "app/lib/collections/cseiisemii.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/cseiisemii.js?037f9ad3e7b2728096dcc63bb29d6eab652140f0",
+      "size": 576,
+      "hash": "037f9ad3e7b2728096dcc63bb29d6eab652140f0"
+    },
+    {
+      "path": "app/lib/collections/cseivsemi.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/cseivsemi.js?94a2b64187048626b0e10f9d03af0eae6f4be2c4",
+      "size": 572,
+      "hash": "94a2b64187048626b0e10f9d03af0eae6f4be2c4"
+    },
+    {
+      "path": "app/lib/collections/cseivsemii.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/cseivsemii.js?dc31fb66c98d8f7063a95ba7c5d3681a3e621745",
+      "size": 576,
+      "hash": "dc31fb66c98d8f7063a95ba7c5d3681a3e621745"
+    },
+    {
+      "path": "app/lib/collections/dist.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/dist.js?7d2517677d6e90ff2d2db942f94eca39a2b0efd7",
+      "size": 552,
+      "hash": "7d2517677d6e90ff2d2db942f94eca39a2b0efd7"
+    },
+    {
+      "path": "app/lib/collections/drawing.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/drawing.js?daa86c3f3ae1e8772ca6a6fff18e08dd9961ce36",
+      "size": 564,
+      "hash": "daa86c3f3ae1e8772ca6a6fff18e08dd9961ce36"
+    },
+    {
+      "path": "app/lib/collections/ds.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/ds.js?3e3c1d6a1426efad822e65ccc0a1fcede92ce98c",
+      "size": 544,
+      "hash": "3e3c1d6a1426efad822e65ccc0a1fcede92ce98c"
+    },
+    {
+      "path": "app/lib/collections/eceiiisemi.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/eceiiisemi.js?65a27b4b1ec7f4f3713ed3bf02ef1f6f0c34eee1",
+      "size": 576,
+      "hash": "65a27b4b1ec7f4f3713ed3bf02ef1f6f0c34eee1"
+    },
+    {
+      "path": "app/lib/collections/eceiiisemii.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/eceiiisemii.js?d1b80e0b558913cdd662a42f1f25f8010b74864d",
+      "size": 580,
+      "hash": "d1b80e0b558913cdd662a42f1f25f8010b74864d"
+    },
+    {
+      "path": "app/lib/collections/eceiisemi.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/eceiisemi.js?edc2bceee9db47644754009cc2c163c9685846fe",
+      "size": 572,
+      "hash": "edc2bceee9db47644754009cc2c163c9685846fe"
+    },
+    {
+      "path": "app/lib/collections/eceiisemii.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/eceiisemii.js?61c2790296c3910d8f3f12e545fef32958d994c2",
+      "size": 576,
+      "hash": "61c2790296c3910d8f3f12e545fef32958d994c2"
+    },
+    {
+      "path": "app/lib/collections/eceivsemi.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/eceivsemi.js?547a262ac8537a52d8715802b4820dcca4b438d2",
+      "size": 572,
+      "hash": "547a262ac8537a52d8715802b4820dcca4b438d2"
+    },
+    {
+      "path": "app/lib/collections/eceivsemii.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/eceivsemii.js?b76e2e5bf079b6c11d405c6aa2ef9579d4ce8730",
+      "size": 576,
+      "hash": "b76e2e5bf079b6c11d405c6aa2ef9579d4ce8730"
+    },
+    {
+      "path": "app/lib/collections/eeeiiisemi.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/eeeiiisemi.js?c7200d693587fde4c127f431a1b1f55c0c198a49",
+      "size": 576,
+      "hash": "c7200d693587fde4c127f431a1b1f55c0c198a49"
+    },
+    {
+      "path": "app/lib/collections/eeeiiisemii.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/eeeiiisemii.js?74ffd1cf46c3c94268d620874d9bab5d0e6660e0",
+      "size": 580,
+      "hash": "74ffd1cf46c3c94268d620874d9bab5d0e6660e0"
+    },
+    {
+      "path": "app/lib/collections/eeeiisemi.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/eeeiisemi.js?a7f4d11e5720db3f8954c58324766bba59569952",
+      "size": 572,
+      "hash": "a7f4d11e5720db3f8954c58324766bba59569952"
+    },
+    {
+      "path": "app/lib/collections/eeeiisemii.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/eeeiisemii.js?cca815fb164895df01d89a27b0c08b0141a12bf0",
+      "size": 576,
+      "hash": "cca815fb164895df01d89a27b0c08b0141a12bf0"
+    },
+    {
+      "path": "app/lib/collections/eeeivsemi.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/eeeivsemi.js?445b8ca60d4cc6223c748418051c3b25bad0c7e8",
+      "size": 572,
+      "hash": "445b8ca60d4cc6223c748418051c3b25bad0c7e8"
+    },
+    {
+      "path": "app/lib/collections/eeeivsemii.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/eeeivsemii.js?d3b3024116707f53ce639741fffa4c1461a87ad3",
+      "size": 576,
+      "hash": "d3b3024116707f53ce639741fffa4c1461a87ad3"
+    },
+    {
+      "path": "app/lib/collections/english.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/english.js?85e1130bd350c84d7f6a0de66229d36b678938c0",
+      "size": 62,
+      "hash": "85e1130bd350c84d7f6a0de66229d36b678938c0"
+    },
+    {
+      "path": "app/lib/collections/itiiisemi.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/itiiisemi.js?4df32f7b916c21f6ad43b0f2ae9fa42ee6914bca",
+      "size": 572,
+      "hash": "4df32f7b916c21f6ad43b0f2ae9fa42ee6914bca"
+    },
+    {
+      "path": "app/lib/collections/itiiisemii.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/itiiisemii.js?4e76f9c895099b5f80dd57d24cad71b751e4da2b",
+      "size": 576,
+      "hash": "4e76f9c895099b5f80dd57d24cad71b751e4da2b"
+    },
+    {
+      "path": "app/lib/collections/itiisemi.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/itiisemi.js?05d6d8c33ae6840980e17ce6162e73db29dbb0e8",
+      "size": 568,
+      "hash": "05d6d8c33ae6840980e17ce6162e73db29dbb0e8"
+    },
+    {
+      "path": "app/lib/collections/itiisemii.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/itiisemii.js?ba10f4d06640c36324e6a99f15a1d3b837f73e35",
+      "size": 572,
+      "hash": "ba10f4d06640c36324e6a99f15a1d3b837f73e35"
+    },
+    {
+      "path": "app/lib/collections/itivsemi.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/itivsemi.js?d8c6cd337787b6bd02e1e2e1601f1ce25ac760e5",
+      "size": 568,
+      "hash": "d8c6cd337787b6bd02e1e2e1601f1ce25ac760e5"
+    },
+    {
+      "path": "app/lib/collections/itivsemii.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/itivsemii.js?5ab5b2d73fc82772de052f4d7c6d61bfc1b1271e",
+      "size": 572,
+      "hash": "5ab5b2d73fc82772de052f4d7c6d61bfc1b1271e"
+    },
+    {
+      "path": "app/lib/collections/lst.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/lst.js?6e9b07f47cb5df163cd79b45f62425617b8f8c87",
+      "size": 548,
+      "hash": "6e9b07f47cb5df163cd79b45f62425617b8f8c87"
+    },
+    {
+      "path": "app/lib/collections/mechanics.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/mechanics.js?c754a32c3afc4a8b69cbc5568a3cd3bfeac14fae",
+      "size": 572,
+      "hash": "c754a32c3afc4a8b69cbc5568a3cd3bfeac14fae"
+    },
+    {
+      "path": "app/lib/collections/mechiiisemi.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/mechiiisemi.js?9b9902cbb2a9838a6eeae603b9612e9beac6a2f9",
+      "size": 580,
+      "hash": "9b9902cbb2a9838a6eeae603b9612e9beac6a2f9"
+    },
+    {
+      "path": "app/lib/collections/mechiiisemii.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/mechiiisemii.js?653121af5108c1df1f8d40d2d4c1f06fd0870e8e",
+      "size": 584,
+      "hash": "653121af5108c1df1f8d40d2d4c1f06fd0870e8e"
+    },
+    {
+      "path": "app/lib/collections/mechiisemi.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/mechiisemi.js?17412aa5d6b7d4f4ecf02ded484eea5695836ce5",
+      "size": 576,
+      "hash": "17412aa5d6b7d4f4ecf02ded484eea5695836ce5"
+    },
+    {
+      "path": "app/lib/collections/mechiisemii.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/mechiisemii.js?d1fc6558848c3656fd9a0f2796ab2c45bb247e5d",
+      "size": 580,
+      "hash": "d1fc6558848c3656fd9a0f2796ab2c45bb247e5d"
+    },
+    {
+      "path": "app/lib/collections/mechivsemi.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/mechivsemi.js?f4aa5ad4f799d36ffd8c5cf8c47337ccc3c5a1a3",
+      "size": 576,
+      "hash": "f4aa5ad4f799d36ffd8c5cf8c47337ccc3c5a1a3"
+    },
+    {
+      "path": "app/lib/collections/mechivsemii.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/mechivsemii.js?55a4df40776df13c32a51ab6666e41a7c4e4b117",
+      "size": 580,
+      "hash": "55a4df40776df13c32a51ab6666e41a7c4e4b117"
+    },
+    {
+      "path": "app/lib/collections/mone.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/mone.js?14bcaf12d21db1770f517f9427229dbcd6949fc0",
+      "size": 552,
+      "hash": "14bcaf12d21db1770f517f9427229dbcd6949fc0"
+    },
+    {
+      "path": "app/lib/collections/mthree.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/mthree.js?e4fdb94a57dabb5ad942d8bc5bea2abecdfd23bf",
+      "size": 560,
+      "hash": "e4fdb94a57dabb5ad942d8bc5bea2abecdfd23bf"
+    },
+    {
+      "path": "app/lib/collections/mtwo.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/mtwo.js?1c376f63f228c4feb867c207141e5b263f1ed469",
+      "size": 552,
+      "hash": "1c376f63f228c4feb867c207141e5b263f1ed469"
+    },
+    {
+      "path": "app/lib/collections/physics.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/collections/physics.js?542edf05bcbc461f32783fd5538119fc05540231",
+      "size": 564,
+      "hash": "542edf05bcbc461f32783fd5538119fc05540231"
+    },
+    {
+      "path": "app/lib/controllers/credits_controller.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/controllers/credits_controller.js?6fcf81c15a2a8450f08eb6d3da29f216d62b600d",
+      "size": 1020,
+      "hash": "6fcf81c15a2a8450f08eb6d3da29f216d62b600d"
+    },
+    {
+      "path": "app/lib/controllers/first_qpapers_controller.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/controllers/first_qpapers_controller.js?9116b399f1f429d63b737f7f9b78cb4df167762a",
+      "size": 1326,
+      "hash": "9116b399f1f429d63b737f7f9b78cb4df167762a"
+    },
+    {
+      "path": "app/lib/controllers/first_qpcards_controller.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/controllers/first_qpcards_controller.js?92a956ca16b280be3cea303e87c1a56e677435b6",
+      "size": 1323,
+      "hash": "92a956ca16b280be3cea303e87c1a56e677435b6"
+    },
+    {
+      "path": "app/lib/controllers/first_year_controller.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/controllers/first_year_controller.js?73100c13ac17a78de76a47765b0666b4d370754d",
+      "size": 1024,
+      "hash": "73100c13ac17a78de76a47765b0666b4d370754d"
+    },
+    {
+      "path": "app/lib/controllers/gate_cards_controller.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/controllers/gate_cards_controller.js?98fad6e01d62f5ea1055dc9481fee75943824931",
+      "size": 1063,
+      "hash": "98fad6e01d62f5ea1055dc9481fee75943824931"
+    },
+    {
+      "path": "app/lib/controllers/gate_controller.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/controllers/gate_controller.js?141ca4268520728dd01eacf6039218b033790d0d",
+      "size": 582,
+      "hash": "141ca4268520728dd01eacf6039218b033790d0d"
+    },
+    {
+      "path": "app/lib/controllers/gate_qpapers_controller.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/controllers/gate_qpapers_controller.js?c84aca9431ac4282be75db09b4af36430471bab4",
+      "size": 1135,
+      "hash": "c84aca9431ac4282be75db09b4af36430471bab4"
+    },
+    {
+      "path": "app/lib/controllers/home_controller.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/controllers/home_controller.js?c5114640443ca97a989612c7075a7569e24af82d",
+      "size": 188,
+      "hash": "c5114640443ca97a989612c7075a7569e24af82d"
+    },
+    {
+      "path": "app/lib/controllers/home_selection_controller.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/controllers/home_selection_controller.js?6e4c2a25854ed43c8d250a7a8655168ba7680875",
+      "size": 600,
+      "hash": "6e4c2a25854ed43c8d250a7a8655168ba7680875"
+    },
+    {
+      "path": "app/lib/controllers/qpapers_controller.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/controllers/qpapers_controller.js?570a9d3c0b60ae03bfbe416d07a5e3bb3fb8a2d5",
+      "size": 1355,
+      "hash": "570a9d3c0b60ae03bfbe416d07a5e3bb3fb8a2d5"
+    },
+    {
+      "path": "app/lib/controllers/qpcards_controller.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/controllers/qpcards_controller.js?8eea27eee09321df0be99ec529869f97ad33b07f",
+      "size": 1360,
+      "hash": "8eea27eee09321df0be99ec529869f97ad33b07f"
+    },
+    {
+      "path": "app/lib/controllers/selections_comp_controller.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/controllers/selections_comp_controller.js?19302b72ac66530506a0baa4d043a6097dbfdd28",
+      "size": 1034,
+      "hash": "19302b72ac66530506a0baa4d043a6097dbfdd28"
+    },
+    {
+      "path": "app/lib/controllers/selections_engg_controller.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/controllers/selections_engg_controller.js?e486ec02308ef5b0e3b19e389003f8958af0df43",
+      "size": 1035,
+      "hash": "e486ec02308ef5b0e3b19e389003f8958af0df43"
+    },
+    {
+      "path": "app/lib/controllers/subjects_controller.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/controllers/subjects_controller.js?6bb37860c4e478cfd37f2791e1af61e5e434ae86",
+      "size": 1862,
+      "hash": "6bb37860c4e478cfd37f2791e1af61e5e434ae86"
+    },
+    {
+      "path": "app/lib/methods.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/methods.js?6f9c9ae130c985e329faf0d5dbb1c70dc0e9d624",
+      "size": 483,
+      "hash": "6f9c9ae130c985e329faf0d5dbb1c70dc0e9d624"
+    },
+    {
+      "path": "app/lib/routes.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/routes.js?8cf4a20f7a18a9502fed5edde14258028b864ab5",
+      "size": 2787,
+      "hash": "8cf4a20f7a18a9502fed5edde14258028b864ab5"
+    },
+    {
+      "path": "app/client/templates/layouts/master_layout/master_layout.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/layouts/master_layout/master_layout.js?f792f8cc3c49230f304e0cc92d5aa7d9e299ec48",
+      "size": 91,
+      "hash": "f792f8cc3c49230f304e0cc92d5aa7d9e299ec48"
+    },
+    {
+      "path": "app/client/templates/credits/credits.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/credits/credits.js?bf59c7831f4f892d8b0ae3710375f03cdf7d4856",
+      "size": 783,
+      "hash": "bf59c7831f4f892d8b0ae3710375f03cdf7d4856"
+    },
+    {
+      "path": "app/client/templates/first_qpapers/first_qpapers.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/first_qpapers/first_qpapers.js?53c8873326619ee9d9eb1b84e6481311ec151398",
+      "size": 2483,
+      "hash": "53c8873326619ee9d9eb1b84e6481311ec151398"
+    },
+    {
+      "path": "app/client/templates/first_qpcards/first_qpcards.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/first_qpcards/first_qpcards.js?c15708190b0055d5271cd33676f3635a59acd989",
+      "size": 1689,
+      "hash": "c15708190b0055d5271cd33676f3635a59acd989"
+    },
+    {
+      "path": "app/client/templates/first_year/first_year.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/first_year/first_year.js?668af389bbaf37acc915fc2d8206ed900298df42",
+      "size": 2046,
+      "hash": "668af389bbaf37acc915fc2d8206ed900298df42"
+    },
+    {
+      "path": "app/client/templates/gate/gate.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/gate/gate.js?a1dd37c14354f70d4dfe62d31363fe8ffba28e03",
+      "size": 1231,
+      "hash": "a1dd37c14354f70d4dfe62d31363fe8ffba28e03"
+    },
+    {
+      "path": "app/client/templates/gate_cards/gate_cards.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/gate_cards/gate_cards.js?62e79a9108d625bf64635a925e130bfce02c9400",
+      "size": 1286,
+      "hash": "62e79a9108d625bf64635a925e130bfce02c9400"
+    },
+    {
+      "path": "app/client/templates/gate_qpapers/gate_qpapers.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/gate_qpapers/gate_qpapers.js?bc9beb0527d71c10e5dfdc631678368e4ed49918",
+      "size": 1648,
+      "hash": "bc9beb0527d71c10e5dfdc631678368e4ed49918"
+    },
+    {
+      "path": "app/client/templates/home/home.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/home/home.js?4692a6c2e6ae14366735d176aaab625e8dacd5c4",
+      "size": 759,
+      "hash": "4692a6c2e6ae14366735d176aaab625e8dacd5c4"
+    },
+    {
+      "path": "app/client/templates/home_selection/home_selection.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/home_selection/home_selection.js?4692a6c2e6ae14366735d176aaab625e8dacd5c4",
+      "size": 759,
+      "hash": "4692a6c2e6ae14366735d176aaab625e8dacd5c4"
+    },
+    {
+      "path": "app/client/templates/qpapers/qpapers.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/qpapers/qpapers.js?bba7c7cedb7151cf53a48daed2df77a47d37d897",
+      "size": 53250,
+      "hash": "bba7c7cedb7151cf53a48daed2df77a47d37d897"
+    },
+    {
+      "path": "app/client/templates/qpcards/qpcards.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/qpcards/qpcards.js?caa6d33b619c374e943338a32aa68a5c1dd9c7af",
+      "size": 25840,
+      "hash": "caa6d33b619c374e943338a32aa68a5c1dd9c7af"
+    },
+    {
+      "path": "app/client/templates/selections_comp/selections_comp.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/selections_comp/selections_comp.js?4132cb177fcef798e81e330e4528690021549396",
+      "size": 1948,
+      "hash": "4132cb177fcef798e81e330e4528690021549396"
+    },
+    {
+      "path": "app/client/templates/selections_engg/selections_engg.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/selections_engg/selections_engg.js?d3570bb59d4a35a6f0a7e377dd3639394261f492",
+      "size": 1948,
+      "hash": "d3570bb59d4a35a6f0a7e377dd3639394261f492"
+    },
+    {
+      "path": "app/client/templates/subjects/subjects.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/subjects/subjects.js?1892bb8c19a5cacc88705e3f040ddaa21b5ba707",
+      "size": 5547,
+      "hash": "1892bb8c19a5cacc88705e3f040ddaa21b5ba707"
+    },
+    {
+      "path": "b1158b0c6f972b66fb50a67ff14b0e3ce6877255.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/b1158b0c6f972b66fb50a67ff14b0e3ce6877255.css",
+      "sourceMap": "b1158b0c6f972b66fb50a67ff14b0e3ce6877255.css.map",
+      "sourceMapUrl": "/b1158b0c6f972b66fb50a67ff14b0e3ce6877255.map",
+      "size": 1253700,
+      "hash": "b1158b0c6f972b66fb50a67ff14b0e3ce6877255"
+    },
+    {
+      "path": "packages/pascoual_pdfjs/build/pdf.worker.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/pascoual_pdfjs/build/pdf.worker.js",
+      "size": 1249760,
+      "hash": "6f9fc1aab4652c00d30aad3088fd3699a047953a"
+    },
+    {
+      "path": "packages/pascoual_pdfjs/web/compatibility.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/pascoual_pdfjs/web/compatibility.js",
+      "size": 17788,
+      "hash": "8588154aa2a995de05ef6e2fdc95205b18de2b40"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/fonts/icons.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/fonts/icons.eot",
+      "size": 60767,
+      "hash": "3e63fc9b3de4580f1f3bec0631436f755b80f167"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/fonts/icons.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/fonts/icons.svg",
+      "size": 313398,
+      "hash": "26bb1c5ef100a1cd71923f1d5dc29fc797ef4639"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/fonts/icons.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/fonts/icons.ttf",
+      "size": 122092,
+      "hash": "9088143b19979779b2116cef38b661f72d982e19"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/fonts/icons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/fonts/icons.woff",
+      "size": 71508,
+      "hash": "56ce13e71c2150d81bc972940584915181bd6081"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/fonts/icons.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/fonts/icons.woff2",
+      "size": 56780,
+      "hash": "1075231650f579955905bb2f6527148a8e2b4b16"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/images/flags.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/images/flags.png",
+      "size": 28123,
+      "hash": "4a552ecb123ded5040ddda01d626103cc65db055"
+    },
+    {
+      "path": "app/.gitkeep",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/.gitkeep",
+      "size": 2,
+      "hash": "ba8ab5a0280b953aa97435ff8946cbcbb2755a27"
+    },
+    {
+      "path": "app/fonts/BubblegumSansRegular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/BubblegumSansRegular.ttf",
+      "size": 38820,
+      "hash": "e9cdccd82ef4614f610df3bd46ca276842893c62"
+    },
+    {
+      "path": "app/fonts/IndieFlower.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/IndieFlower.ttf",
+      "size": 68184,
+      "hash": "c6c2a3d551578173b295e174237ee4e6e9fcc2cd"
+    },
+    {
+      "path": "app/fonts/JosefinSansRegular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/JosefinSansRegular.ttf",
+      "size": 33008,
+      "hash": "c6feb3d2b900dec157b8b1050c03098b1d54e0f2"
+    },
+    {
+      "path": "app/icons/College_Studying_128.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/College_Studying_128.png",
+      "size": 1456,
+      "hash": "37c38eaadb3044a4fd3d59de0530a602f127d0be"
+    },
+    {
+      "path": "app/icons/College_Studying_256.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/College_Studying_256.png",
+      "size": 3034,
+      "hash": "3f40b9808ce3bafd52f2e88de72fc007b3dca857"
+    },
+    {
+      "path": "app/icons/College_Studying_32-black.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/College_Studying_32-black.png",
+      "size": 266,
+      "hash": "db7e486461765c1a29ef9ee9facd3fea04a97396"
+    },
+    {
+      "path": "app/icons/College_Studying_32-orange.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/College_Studying_32-orange.png",
+      "size": 280,
+      "hash": "99fc9804056abeb4abaabf61f659d3fb5875592f"
+    },
+    {
+      "path": "app/icons/College_Studying_32-white.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/College_Studying_32-white.png",
+      "size": 270,
+      "hash": "497833842b149811d8302198afdd0f4d1e0d5cb6"
+    },
+    {
+      "path": "app/icons/College_Studying_32.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/College_Studying_32.png",
+      "size": 471,
+      "hash": "9c5ae3ae0cc5ec7aeae1d567003c3d0f9d5642da"
+    },
+    {
+      "path": "app/icons/College_Studying_64.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/College_Studying_64.png",
+      "size": 774,
+      "hash": "8f91476703c58bd9a6842ca1e3c59d9134cb6e66"
+    },
+    {
+      "path": "app/icons/Modern-education-icons-vector-material-02.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/Modern-education-icons-vector-material-02.jpg",
+      "size": 162218,
+      "hash": "cea2c2ff14d238a5993fe4fdbc72708e632751d0"
+    },
+    {
+      "path": "app/img/bg.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg.jpg",
+      "size": 47719,
+      "hash": "23e18b12e9427e3a4c35937e1c19cc2a3f657c63"
+    },
+    {
+      "path": "app/img/bg1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg1.jpg",
+      "size": 27436,
+      "hash": "ca4ed232a5f7cfc085b3886bd442547177015640"
+    },
+    {
+      "path": "app/img/bgg.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bgg.jpg",
+      "size": 53186,
+      "hash": "d9612f365797b202394ec782bead20c7014eeb8c"
+    },
+    {
+      "path": "app/img/college.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/college.png",
+      "size": 93520,
+      "hash": "30335dcc4aa83f67fe1d7e4fea4a67d2f23ce6b6"
+    },
+    {
+      "path": "app/img/design.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/design.png",
+      "size": 94200,
+      "hash": "b3ffd427091e2163226d368519f9badd9e30e5cc"
+    },
+    {
+      "path": "app/img/develop.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/develop.png",
+      "size": 94821,
+      "hash": "1747e41e6516717870225182032b4a7636fb3e0e"
+    },
+    {
+      "path": "app/img/manasa.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/manasa.jpg",
+      "size": 84525,
+      "hash": "026eb4eacca2e12f6d74e6c34c99dfd4d9c59a80"
+    },
+    {
+      "path": "app/img/meth.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/meth.jpg",
+      "size": 103015,
+      "hash": "b85e95a85029a6dc488b8c88e1fd34eb038c4585"
+    },
+    {
+      "path": "app/img/oulogo.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/oulogo.jpg",
+      "size": 52850,
+      "hash": "9c3d311e22b099292c93933250d8c92351bdd934"
+    },
+    {
+      "path": "app/img/qp1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/qp1.jpg",
+      "size": 9966,
+      "hash": "b939c44877d8d80e6ee029ae344c32d369a974af"
+    },
+    {
+      "path": "app/img/qp2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/qp2.jpg",
+      "size": 57082,
+      "hash": "370058396dcc3cecd48488e45866848d408bfd42"
+    },
+    {
+      "path": "app/img/qp3.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/qp3.png",
+      "size": 72429,
+      "hash": "6362ccd74c798f8ddae533bc8055c6cf770afad6"
+    },
+    {
+      "path": "app/img/qp4.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/qp4.png",
+      "size": 72479,
+      "hash": "7eebdb34b639c1899395d769fb4d4b11d4792ba4"
+    },
+    {
+      "path": "app/img/qstns.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/qstns.png",
+      "size": 67431,
+      "hash": "89ccf422ca54a776b439ee12b5b11565865da8d8"
+    },
+    {
+      "path": "app/img/ssk.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/ssk.jpg",
+      "size": 121297,
+      "hash": "7aca80c6dad6565fd83d7032fe4ed00c55432bea"
+    },
+    {
+      "path": "app/pdfs/first_yr/english/eng_jun_13.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/pdfs/first_yr/english/eng_jun_13.jpg",
+      "size": 63918774,
+      "hash": "33245a750fc40f41033e6664c471c44dee40a1fc"
+    },
+    {
+      "path": "app/pdfs/first_yr/english/eng_jun_14.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/pdfs/first_yr/english/eng_jun_14.jpg",
+      "size": 74006838,
+      "hash": "371eb63e7e2aca7eb35650ef781be5fce5919c5a"
+    },
+    {
+      "path": "app/pdfs/first_yr/english/english.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/pdfs/first_yr/english/english.json",
+      "size": 215,
+      "hash": "46b4a1061b24320aeff268b5b3f99cf0b68727bf"
+    },
+    {
+      "path": "app/pdfs/second_yr/cse/two-one/ca/ca.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/pdfs/second_yr/cse/two-one/ca/ca.json",
+      "size": 249,
+      "hash": "f9ef232f21d3f1d654deb010c31227d61e6a6f3a"
+    },
+    {
+      "path": "app/pdfs/second_yr/cse/two-one/ca/ca_dec_14.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/pdfs/second_yr/cse/two-one/ca/ca_dec_14.jpg",
+      "size": 2982629,
+      "hash": "ab75e2bb119c0de2dd47849d619c7c8753c082c6"
+    },
+    {
+      "path": "app/pdfs/second_yr/cse/two-one/ca/ca_nov_13.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/pdfs/second_yr/cse/two-one/ca/ca_nov_13.jpg",
+      "size": 1112387,
+      "hash": "7c7c06f1388cb2b64675be06d6e9491b1bbcfdcf"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "a179c9e320482ca05a4e6fce21e558b04eaba42c"
+    }
+  ]
+}

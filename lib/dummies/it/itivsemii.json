@@ -1,0 +1,46 @@
+[
+              {
+                 "subject_name": "Embedded Systems",
+                 "subject_val": "it_embsys"
+              },
+              {
+                  "subject_name": "Information Retrieval Systems",
+                  "subject_val": "it_infrs"
+              },
+              {
+                   "subject_name": "Information Storage & Management",
+                   "subject_val": "it_ism"
+              },
+              {
+                   "subject_name": "Simulation & Modeling",
+                   "subject_val": "it_sm"
+              },
+              {
+                   "subject_name": "Advanced Computer Architecture",
+                   "subject_val": "it_aca"
+              },
+              {
+                   "subject_name": "Natural Language Processing",
+                   "subject_val": "it_nlp"
+              },
+              {
+                   "subject_name": "Soft Computing",
+                   "subject_val": "it_sc"
+              },
+              {
+                   "subject_name": "Human Computer Interaction",
+                   "subject_val": "it_hci"
+              },
+              {
+                   "subject_name": "Cloud Computing",
+                   "subject_val": "it_clcomp"
+              },
+              {
+                   "subject_name": "Entrepreneurship",
+                   "subject_val": "it_ent"
+              },
+              {
+                   "subject_name": "Disaster Management",
+                   "subject_val": "it_dm"
+              }
+]

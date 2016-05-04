@@ -1,0 +1,42 @@
+[
+              {
+                 "subject_name": "Structural Engg. Design & Detailing-II",
+                 "subject_val": "civil_sedd2"
+               },
+               {
+                 "subject_name": "Estimating & Specifications",
+                 "subject_val": "civil_eas"
+               },
+               {
+                 "subject_name": "Foundation Engg.",
+                 "subject_val": "civil_fe"
+               },
+               {
+                 "subject_name": "Water Resources Engg. - II",
+                 "subject_val": "civil_wre2"
+               },
+               {
+                 "subject_name": "Concrete Technology",
+                 "subject_val": "civil_ct"
+               },
+               {
+                 "subject_name": "Elements Of Earthquake Engg.",
+                 "subject_val": "civil_eoee"
+               },
+               {
+                 "subject_name": "Surface & Ground Water Mgmt",
+                 "subject_val": "civil_sgwm"
+               },
+               {
+                 "subject_name": "Pre-Stressed Concrete",
+                 "subject_val": "civil_psc"
+               },
+               {
+                 "subject_name": "Geographical Information Systems",
+                 "subject_val": "civil_gis"
+               },
+               {
+                 "subject_name": "Operations Research",
+                 "subject_val": "civil_or"
+               }
+]

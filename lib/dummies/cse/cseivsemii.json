@@ -1,0 +1,59 @@
+[
+              {
+                 "subject_name": "Data Mining",
+                 "subject_val": "dm"
+               },
+               {
+                 "subject_name": "Simulation & Modeling",
+                 "subject_val": "sm"
+               },
+               {
+                 "subject_name": "Software Quality & Testing",
+                 "subject_val": "sqt"
+               },
+               {
+                 "subject_name": "Information Storage & Management",
+                 "subject_val": "ism"
+               },
+               {
+                 "subject_name": "Human Computer Interaction",
+                 "subject_val": "hci"
+               },
+               {
+                 "subject_name": "Software Reuse Techniques",
+                 "subject_val": "srt"
+               },
+               {
+                 "subject_name": "Entrepreneurship",
+                 "subject_val": "eps"
+               },
+               {
+                 "subject_name": "Information Retrieval Systems",
+                 "subject_val": "irs"
+               },
+               {
+                 "subject_name": "Semantic Web",
+                 "subject_val": "sw"
+               },
+               {
+                 "subject_name": "Intellectual Property Rights",
+                 "subject_val": "ipr"
+               },
+               {
+                 "subject_name": "Advanced Databases",
+                 "subject_val": "ad"
+               },
+               {
+                 "subject_name": "Multimedia Systems",
+                 "subject_val": "ms"
+               },
+               {
+                 "subject_name": "Cloud Computing",
+                 "subject_val": "c_c"
+               },
+               {
+                 "subject_name": "Disaster Management",
+                 "subject_val": "dm"
+               }
+
+]

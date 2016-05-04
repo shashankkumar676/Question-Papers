@@ -1,0 +1,23 @@
+[
+              {
+                 "subject_name": "Computer Networks",
+                 "subject_val": "cn"
+               },
+               {
+                 "subject_name": "Principles of Programming Languages",
+                 "subject_val": "ppl"
+               },
+               {
+                 "subject_name": "Compiler Construction",
+                 "subject_val": "cc"
+               },
+               {
+                 "subject_name": "Object Oriented System Develpment",
+                 "subject_val": "oosd"
+               },
+               {
+                 "subject_name": "Web Programming & Services",
+                 "subject_val": "wps"
+               }
+
+]

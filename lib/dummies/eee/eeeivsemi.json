@@ -1,0 +1,42 @@
+[
+              {
+                 "subject_name": "Power System Operation & Control",
+                 "subject_val": "eee_psoc"
+               },
+               {
+                 "subject_name": "Electric Drives & Static Control",
+                 "subject_val": "eee_edsc"
+               },
+               {
+                 "subject_name": "Electrical Machine Design",
+                 "subject_val": "eee_emd"
+               },
+               {
+                 "subject_name": "High Voltage DC Transmission",
+                 "subject_val": "eee_hvdt"
+               },
+               {
+                 "subject_name": "High Voltage Engg.",
+                 "subject_val": "eee_hve"
+               },
+               {
+                 "subject_name": "Power Quality",
+                 "subject_val": "eee_pq"
+               },
+               {
+                 "subject_name": "Nuclear Energy",
+                 "subject_val": "eee_ne"
+               },
+               {
+                 "subject_name": "Entrepreneurship",
+                 "subject_val": "eee_e"
+               },
+               {
+                 "subject_name": "Information Security",
+                 "subject_val": "eee_is"
+               },
+               {
+                 "subject_name": "Embedded Systems",
+                 "subject_val": "eee_embsys"
+               }
+]

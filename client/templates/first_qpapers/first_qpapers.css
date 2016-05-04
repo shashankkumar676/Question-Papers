@@ -1,0 +1,15 @@
+/*****************************************************************************/
+/* FirstQpapers: Style */
+/*****************************************************************************/
+#first_qpapers {
+  padding-top: 70px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+#first_qpapers .header .content {
+  font-family: BubblegumSans;
+}
+
+#first_qpapers .back-btn .circular{
+  margin-bottom: 15px;
+}

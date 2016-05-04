@@ -1,0 +1,34 @@
+(function(){Mtwo = new Mongo.Collection('mtwo');
+
+
+if (Meteor.isServer) {
+  Mtwo.allow({
+    insert: function (userId, doc) {
+      return false;
+    },
+
+    update: function (userId, doc, fieldNames, modifier) {
+      return false;
+    },
+
+    remove: function (userId, doc) {
+      return false;
+    }
+  });
+
+  Mtwo.deny({
+    insert: function (userId, doc) {
+      return true;
+    },
+
+    update: function (userId, doc, fieldNames, modifier) {
+      return true;
+    },
+
+    remove: function (userId, doc) {
+      return true;
+    }
+  });
+}
+
+})();

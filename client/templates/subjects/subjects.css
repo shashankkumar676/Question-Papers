@@ -1,0 +1,17 @@
+/*****************************************************************************/
+/* Subjects: Style */
+/*****************************************************************************/
+#body-subjects{
+  height: 100%;
+}
+#year-sub {
+  height: 100%;
+  padding-top: 70px;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 19px;
+  font-family: JosefinSans;
+}
+#year-sub .header {
+  font-family: BubblegumSans;
+}

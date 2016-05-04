@@ -1,0 +1,26 @@
+[
+              {
+                 "subject_name": "Mathematics-IV",
+                 "subject_val": "ece_m4"
+               },
+               {
+                 "subject_name": "Analog Electonic Circuits",
+                 "subject_val": "ece_aec"
+               },
+               {
+                 "subject_name": "Networks & Transmission Lines",
+                 "subject_val": "ece_ntl"
+               },
+               {
+                 "subject_name": "Signal Analysis & Transform Tech.",
+                 "subject_val": "ece_satt"
+               },
+               {
+                 "subject_name": "Pulse,Digital & Switching Circuits",
+                 "subject_val": "ece_pdsc"
+               },
+               {
+                 "subject_name": "Environmental Studies",
+                 "subject_val": "ece_es"
+               }
+]

@@ -1,0 +1,54 @@
+[
+               {
+                 "subject_name": "Thermal Turbo Machines",
+                 "subject_val": "mech_ttm"
+               },
+               {
+                 "subject_name": "Metrology & Instrumentation",
+                 "subject_val": "mech_mi"
+               },
+               {
+                 "subject_name": "Finite Element Analysis",
+                 "subject_val": "mech_fea"
+               },
+               {
+                 "subject_name": "Operations Research",
+                 "subject_val": "mech_or"
+               },
+               {
+                 "subject_name": "Neural Networks",
+                 "subject_val": "mech_nn"
+               },
+               {
+                 "subject_name": "Automobile Engineering",
+                 "subject_val": "mech_ae"
+               },
+               {
+                 "subject_name": "Non Conventional Energy Sources",
+                 "subject_val": "mech_nces"
+               },
+               {
+                 "subject_name": "Tool Design",
+                 "subject_val": "mech_td"
+               },
+               {
+                 "subject_name": "Entrepreneurship",
+                 "subject_val": "mech_e"
+               },
+               {
+                 "subject_name": "Computational Fluid Flows",
+                 "subject_val": "mech_cff"
+               },
+               {
+                 "subject_name": "Design for Manufacture",
+                 "subject_val": "mech_dom"
+               },
+               {
+                 "subject_name": "Composite Materials",
+                 "subject_val": "mech_cm"
+               },
+               {
+                 "subject_name": "Disaster Mitigation & Management",
+                 "subject_val": "mech_dmm"
+               }
+]

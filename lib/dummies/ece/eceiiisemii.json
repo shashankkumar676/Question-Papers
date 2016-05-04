@@ -1,0 +1,26 @@
+[
+              {
+                 "subject_name": "Digital Communication",
+                 "subject_val": "ece_dc"
+               },
+               {
+                 "subject_name": "Digital Signal Processing",
+                 "subject_val": "ece_dsp"
+               },
+               {
+                 "subject_name": "Antennas & Wave Propagation",
+                 "subject_val": "ece_awp"
+               },
+               {
+                 "subject_name": "Computer Organisation & Architecture",
+                 "subject_val": "ece_coa"
+               },
+               {
+                 "subject_name": "Electronic Instrumentation",
+                 "subject_val": "ece_ei"
+               },
+               {
+                 "subject_name": "Managerial Economics & Accountancy",
+                 "subject_val": "ece_mea"
+               }
+]

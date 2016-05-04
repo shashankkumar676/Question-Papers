@@ -1,0 +1,26 @@
+[
+              {
+                 "subject_name": "Power Systems-II",
+                 "subject_val": "eee_ps2"
+               },
+               {
+                 "subject_name": "Electrical Machinery-II",
+                 "subject_val": "eee_em2"
+               },
+               {
+                 "subject_name": "Power Electronics",
+                 "subject_val": "eee_pe"
+               },
+               {
+                 "subject_name": "Digital Electronics & Logic Design",
+                 "subject_val": "eee_deld"
+               },
+               {
+                 "subject_name": "Linear Integrated Circuits",
+                 "subject_val": "eee_lic"
+               },
+               {
+                 "subject_name": "Linear Control Systems",
+                 "subject_val": "eee_lcs"
+               }
+]

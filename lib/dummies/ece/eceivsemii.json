@@ -1,0 +1,54 @@
+[
+              {
+                 "subject_name": "Radar & Satellite Communication",
+                 "subject_val": "ece_rsc"
+               },
+               {
+                 "subject_name": "Real Time Operating systems",
+                 "subject_val": "ece_rtos"
+               },
+               {
+                 "subject_name": "Coding Theory & Techniques",
+                 "subject_val": "ece_ctt"
+               },
+               {
+                 "subject_name": "Design Of Fault Tolerant Systems",
+                 "subject_val": "ece_dofts"
+               },
+               {
+                 "subject_name": "Speech Processing",
+                 "subject_val": "ece_sp"
+               },
+               {
+                 "subject_name": "Wireless Sensor Networks",
+                 "subject_val": "ece_wsn"
+               },
+               {
+                 "subject_name": "Entrepreneurship",
+                 "subject_val": "ece_e"
+               },
+               {
+                 "subject_name": "Nano Technology",
+                 "subject_val": "ece_nt"
+               },
+               {
+                 "subject_name": "Global Positioning Systems",
+                 "subject_val": "ece_gps"
+               },
+               {
+                 "subject_name": "Neural Networks & Fuzzy Logic",
+                 "subject_val": "ece_nnfl"
+               },
+               {
+                 "subject_name": "Spectral Estimation Techniques",
+                 "subject_val": "ece_set"
+               },
+               {
+                 "subject_name": "Intellectual Property Rights",
+                 "subject_val": "ece_ipr"
+               },
+               {
+                 "subject_name": "Disaster Migitation & Management",
+                 "subject_val": "ece_dmm"
+               }
+]

@@ -1,0 +1,27 @@
+[
+              {
+                 "subject_name": "Reinforced Cement Concrete",
+                 "subject_val": "civil_rcc"
+               },
+               {
+                 "subject_name": "Fluid Mechanics-II",
+                 "subject_val": "civil_fm2"
+               },
+               {
+                 "subject_name": "Theory Of Structures-I",
+                 "subject_val": "civil_tos1"
+               },
+               {
+                 "subject_name": "Building Technology & Services",
+                 "subject_val": "civil_bts"
+               },
+               {
+                 "subject_name": "Transportation Engineering",
+                 "subject_val": "civil_te"
+               },
+               {
+                 "subject_name": "Mangerial Economics & Accountancy",
+                 "subject_val": "civil_mea"
+               }
+
+]

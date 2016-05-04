@@ -1,0 +1,19 @@
+/*****************************************************************************/
+/* FirstQpapers: Style */
+/*****************************************************************************/
+#gate_qpapers {
+  padding-top: 70px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+#gate_qpapers .header .content {
+  font-family: BubblegumSans;
+}
+
+#gate_qpapers .back-btn .circular{
+  float: left;
+}
+
+#gate_qpapers .home-btn .circular{
+  float: right;
+}

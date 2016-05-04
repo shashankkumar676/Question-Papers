@@ -1,0 +1,16 @@
+/*****************************************************************************/
+/* FirstYear: Style */
+/*****************************************************************************/
+#body-yearone{
+  height: 100%;
+  overflow: hidden;
+}
+#year1 {
+  padding-top: 70px;
+  height: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+#year1 .header .content {
+  font-family: BubblegumSans;
+}

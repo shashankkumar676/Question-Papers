@@ -1,0 +1,26 @@
+[
+              {
+                 "subject_name": "Probability and Random Process",
+                 "subject_val": "it_prp"
+               },
+               {
+                 "subject_name": "Signals & Systems",
+                 "subject_val": "it_ss"
+               },
+               {
+                 "subject_name": "Web Technologies",
+                 "subject_val": "it_wt"
+               },
+               {
+                 "subject_name": "OOP Using Java",
+                 "subject_val": "it_it_oops"
+               },
+               {
+                 "subject_name": "Comp  Organization  & Microprocessors",
+                 "subject_val": "it_com"
+               },
+               {
+                 "subject_name": "Data Communications",
+                 "subject_val": "it_dc"
+               }
+]

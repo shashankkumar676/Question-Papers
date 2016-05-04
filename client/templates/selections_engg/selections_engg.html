@@ -1,0 +1,81 @@
+<template name="selections_engg">
+
+<body id="body_selections_engg">
+
+  <div id="selections_engg" >
+
+    <div class="ui inverted fixed menu navbar page grid" style="background:#29b6f6;height:60px;">
+      <a href="/home_selection" style="color:white;margin-top:6px;">
+        <button class="ui circular olive large icon button">
+          <i class="large arrow left icon"></i>
+        </button>
+      </a>
+
+      <h1 class="ui center aligned header" style="color:white;margin-top:10px;padding-left:5%">
+            <div class="content">Select your's</div>
+          </h1>
+        </div>
+
+      <br>
+
+      <!-- <img src="/pdfs/first_yr/english/eng_nov_12.png" alt="" style="height:auto;width:100%;" /> -->
+
+      <center class="center-buttons">
+
+      <a href="first_year" class="first_btn">
+        <div class="ui big secondary button" style="background:#FF6600;">
+          First Year
+        </div>
+      </a>
+      <br><br>
+
+        <div class="ui horizontal divider" style="width:50%">or</div>
+        <br>
+
+
+        <form class="select-form" style="width:100%;">
+            <select name="year" class="ui compact large selection dropdown selectyr" style="height:75px;" id="select-yr">
+              <option value="select_year">Select</option>
+              <option value="second">Second</option>
+              <option value="third">Third</option>
+              <option value="fourth">Fourth</option>
+            </select>
+            <a class="ui orange tag label">Year</a>
+
+            <br><br>
+
+            <select name="semester" class="ui compact large selection dropdown selectsem" id="select-sem">
+              <option value="select_semester">Select</option>
+              <option value="one">One</option>
+              <option value="two">Two</option>
+            </select>
+            <a class="ui orange tag label">Semester</a>
+
+            <br><br>
+
+            <select name="branch" class="ui compact large selection dropdown selectbr" id="select-br">
+              <option value="select_branch">Select</option>
+              <option value="cse">CSE</option>
+              <option value="civil">CIVIL</option>
+              <option value="ece">ECE</option>
+              <option value="eee">EEE</option>
+              <option value="it">IT</option>
+              <option value="mech">MECH</option>
+            </select>
+
+            <a class="ui orange tag label">Branch</a>
+
+            <br><br><br>
+
+              <button class="ui big secondary button" value="" type="submit" style="background:#29b6f6; ">
+                Search<i class="right arrow icon"></i>
+              </button>
+
+          </form>
+      </center>
+
+  </div>
+
+</body>
+
+</template>

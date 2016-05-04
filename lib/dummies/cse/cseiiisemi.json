@@ -1,0 +1,26 @@
+[
+              {
+                 "subject_name": "Database Management System",
+                 "subject_val": "dbms"
+               },
+               {
+                 "subject_name": "Operating Systems",
+                 "subject_val": "os"
+               },
+               {
+                 "subject_name": "Automata, Languages and Compilation",
+                 "subject_val": "alc"
+               },
+               {
+                 "subject_name": "Software Engineering",
+                 "subject_val": "se"
+               },
+               {
+                 "subject_name": "Managerial Economics & Accountancy",
+                 "subject_val": "mea"
+               },
+               {
+                 "subject_name": "Design & Analysis of Algorithms",
+                 "subject_val": "daa"
+               }
+]

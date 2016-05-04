@@ -1,0 +1,27 @@
+[
+              {
+                 "subject_name": "Mathematics - III",
+                 "subject_val": "ece_m3"
+               },
+               {
+                 "subject_name": "Electromagnetic Theory   ",
+                 "subject_val": "ece_emt"
+               },
+               {
+                 "subject_name": "Basic Circuits Analysis",
+                 "subject_val": "ece_bca"
+               },
+               {
+                 "subject_name": "Electronic Devices",
+                 "subject_val": "ece_ed"
+               },
+               {
+                 "subject_name": "Elements of Mechanical Engineering",
+                 "subject_val": "ece_eme"
+               },
+               {
+                 "subject_name": "Electrical Tech.",
+                 "subject_val": "ece_et"
+               }
+
+]

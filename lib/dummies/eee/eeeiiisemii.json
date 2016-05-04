@@ -1,0 +1,22 @@
+[
+              {
+                 "subject_name": "Digital Signal Processing",
+                 "subject_val": "eee_dsp"
+               },
+               {
+                 "subject_name": "Electrical Machinery-III",
+                 "subject_val": "eee_em3"
+               },
+               {
+                 "subject_name": "Switchgear & Protection",
+                 "subject_val": "eee_sp"
+               },
+               {
+                 "subject_name": "Microprocessor & Microcontrollers",
+                 "subject_val": "eee_mm"
+               },
+               {
+                 "subject_name": "Managerial Economics & Accountancy",
+                 "subject_val": "eee_mea"
+               }
+]

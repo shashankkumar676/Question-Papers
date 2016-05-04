@@ -1,0 +1,58 @@
+[
+              {
+                 "subject_name": "Utilization",
+                 "subject_val": "eee_u"
+               },
+               {
+                 "subject_name": "Industrial Administration and Financial Management",
+                 "subject_val": "eee_iafm"
+               },
+               {
+                 "subject_name": "Electrical Power Distribution Engg.",
+                 "subject_val": "eee_epde"
+               },
+               {
+                 "subject_name": "Advanced Control Systems",
+                 "subject_val": "eee_acs"
+               },
+               {
+                 "subject_name": "Optimization Methods",
+                 "subject_val": "eee_om"
+               },
+               {
+                 "subject_name": "VLSI Design",
+                 "subject_val": "eee_vlsi"
+               },
+               {
+                 "subject_name": "Intellectual Property Rights",
+                 "subject_val": "eee_ipr"
+               },
+               {
+                 "subject_name": "Disaster Mitigation & Management",
+                 "subject_val": "eee_dmm"
+               },
+               {
+                 "subject_name": "Renewable Energy Sources",
+                 "subject_val": "eee_res"
+               },
+               {
+                 "subject_name": "Transducers",
+                 "subject_val": "eee_t"
+               },
+               {
+                 "subject_name": "Power System Reliability",
+                 "subject_val": "eee_psr"
+               },
+               {
+                 "subject_name": "Electronic Instrumentation Systems",
+                 "subject_val": "eee_eis"
+               },
+               {
+                 "subject_name": "Image Processing",
+                 "subject_val": "eee_ip"
+               },
+               {
+                 "subject_name": "Soft Computing",
+                 "subject_val": "eee_sc"
+               }
+]

@@ -1,0 +1,26 @@
+[
+              {
+                 "subject_name": "Mathematics-III",
+                 "subject_val": "mech_m3"
+               },
+               {
+                 "subject_name": "Metallurgy & Material Science",
+                 "subject_val": "mech_mms"
+               },
+               {
+                 "subject_name": "Machine Drawing",
+                 "subject_val": "mech_md"
+               },
+               {
+                 "subject_name": "Mechanics Of Materials",
+                 "subject_val": "mech_mom"
+               },
+               {
+                 "subject_name": "Environmental Studies",
+                 "subject_val": "mech_es"
+               },
+               {
+                 "subject_name": "Managerial Economics & Accountancy",
+                 "subject_val": "mech_mea"
+               }
+]

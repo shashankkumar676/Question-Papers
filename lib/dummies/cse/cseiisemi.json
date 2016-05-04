@@ -1,0 +1,27 @@
+[
+              {
+                 "subject_name": "Mathematics - III",
+                 "subject_val": "m3"
+               },
+               {
+                 "subject_name": "Data Structures using C++",
+                 "subject_val": "ds"
+               },
+               {
+                 "subject_name": "Discrete Structures",
+                 "subject_val": "dist"
+               },
+               {
+                 "subject_name": "Logic and Switching Theory",
+                 "subject_val": "lst"
+               },
+               {
+                 "subject_name": "Computer Architecture",
+                 "subject_val": "ca"
+               },
+               {
+                 "subject_name": "Basic Electronics",
+                 "subject_val": "be"
+               }
+
+]

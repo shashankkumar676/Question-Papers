@@ -1,0 +1,26 @@
+[
+              {
+                 "subject_name": "Soil Mechanics",
+                 "subject_val": "civil_sm"
+               },
+               {
+                 "subject_name": "Steel Structures",
+                 "subject_val": "civil_ss"
+               },
+               {
+                 "subject_name": "Theory Of Structures-II",
+                 "subject_val": "civil_tos2"
+               },
+               {
+                 "subject_name": "Structural Engg.Design & Detailing-I",
+                 "subject_val": "civil_sedd1"
+               },
+               {
+                 "subject_name": "Water Resources Engg. & Management-II",
+                 "subject_val": "civil_wrem2"
+               },
+               {
+                 "subject_name": "Water & Waste Water Engg.",
+                 "subject_val": "civil_wwwe"
+               }
+]

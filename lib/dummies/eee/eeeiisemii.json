@@ -1,0 +1,26 @@
+[
+              {
+                 "subject_name": "Electrical Circuits-II",
+                 "subject_val": "eee_ec2"
+               },
+               {
+                 "subject_name": "Solid Mechanics",
+                 "subject_val": "eee_sm"
+               },
+               {
+                 "subject_name": "Power Systems-I",
+                 "subject_val": "eee_ps1"
+               },
+               {
+                 "subject_name": "Electronic Engineering-II",
+                 "subject_val": "eee_ee2"
+               },
+               {
+                 "subject_name": "Electromagnetic Theory",
+                 "subject_val": "eee_emt"
+               },
+               {
+                 "subject_name": "Electrical Machinery-I",
+                 "subject_val": "eee_em1"
+               }
+]
